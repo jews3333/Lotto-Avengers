@@ -1,30 +1,19 @@
 import React from 'react';
 
-const Counter = ({number, color, index, onIncrement, onDecrement, onSetColor}) => {
+const Counter = ({ number, onIncrement, onDecrement }) => {
     return (
-        <div 
-            className="Counter" 
-            onClick={() => onIncrement(index)} 
-            onContextMenu={
-                (e) => { 
-                    e.preventDefault(); 
-                    onDecrement(index);
-                }
-            } 
-            onDoubleClick={() => onSetColor(index)}
-            style={{backgroundColor: color}}>
-                {number}
+        <div>
+            <p>{number}</p>
+            <button onClick={onDecrement}>-</button>
+            <button onClick={onIncrement}>+</button>
         </div>
     );
-};
+}
 
 Counter.defaultProps = {
-    index: 0,
     number: 0,
-    color: 'black',
-    onIncrement: () => console.warn('onIncrement not defined'),
-    onDecrement: () => console.warn('onDecrement not defined'),
-    onSetColor: () => console.warn('onSetColor not defined')
-};
+    onIncrement: () => console.warn('i'),
+    onDecrement: () => console.warn('d')
+}
 
 export default Counter;

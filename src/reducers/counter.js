@@ -2,10 +2,10 @@ import * as types from '../actions/ActionTypes';
 
 const initialState = {
     number: 0
-};
+}
 
-const number = (state = initialState, action) => {
-    switch(action.type){
+const counter = (state=initialState, actions) => {
+    switch (actions.type) {
         case types.INCREMENT:
             return {
                 number: state.number + 1
@@ -14,9 +14,9 @@ const number = (state = initialState, action) => {
             return {
                 number: state.number - 1
             }
-        default:
+        default: 
             return state;
     }
 }
 
-export default number;
+export default counter;

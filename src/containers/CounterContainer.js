@@ -1,20 +1,14 @@
-import Counter from '../components/Counter';
 import * as actions from '../actions';
+import Counter from '../components/Counter';
 import { connect } from 'react-redux';
-import { getRandomColor } from '../utils';
 
 const mapStateToProps = (state) => ({
-    color: state.colorData.color,
-    number: state.numberData.number
+    number: state.counterData.number
 });
 
 const mapDispatchToProps = (dispatch) => ({
     onIncrement: () => dispatch(actions.increment()),
-    onDecrement: () => dispatch(actions.decrement()),
-    onSetColor: () => {
-        const color = getRandomColor();
-        dispatch(actions.setColor(color));
-    }
+    onDecrement: () => dispatch(actions.decrement())
 });
 
 const CounterContainer = connect(
