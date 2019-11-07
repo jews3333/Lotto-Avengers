@@ -1,0 +1,8834 @@
+{
+	"lotto": [
+		{
+			"episode": 1,
+			"round1": 10,
+			"round2": 23,
+			"round3": 29,
+			"round4": 33,
+			"round5": 37,
+			"round6": 40,
+			"bonus": 16
+		},
+		{
+			"episode": 2,
+			"round1": 9,
+			"round2": 13,
+			"round3": 21,
+			"round4": 25,
+			"round5": 32,
+			"round6": 42,
+			"bonus": 2
+		},
+		{
+			"episode": 3,
+			"round1": 11,
+			"round2": 16,
+			"round3": 19,
+			"round4": 21,
+			"round5": 27,
+			"round6": 31,
+			"bonus": 30
+		},
+		{
+			"episode": 4,
+			"round1": 14,
+			"round2": 27,
+			"round3": 30,
+			"round4": 31,
+			"round5": 40,
+			"round6": 42,
+			"bonus": 2
+		},
+		{
+			"episode": 5,
+			"round1": 16,
+			"round2": 24,
+			"round3": 29,
+			"round4": 40,
+			"round5": 41,
+			"round6": 42,
+			"bonus": 3
+		},
+		{
+			"episode": 6,
+			"round1": 14,
+			"round2": 15,
+			"round3": 26,
+			"round4": 27,
+			"round5": 40,
+			"round6": 42,
+			"bonus": 34
+		},
+		{
+			"episode": 7,
+			"round1": 2,
+			"round2": 9,
+			"round3": 16,
+			"round4": 25,
+			"round5": 26,
+			"round6": 40,
+			"bonus": 42
+		},
+		{
+			"episode": 8,
+			"round1": 8,
+			"round2": 19,
+			"round3": 25,
+			"round4": 34,
+			"round5": 37,
+			"round6": 39,
+			"bonus": 9
+		},
+		{
+			"episode": 9,
+			"round1": 2,
+			"round2": 4,
+			"round3": 16,
+			"round4": 17,
+			"round5": 36,
+			"round6": 39,
+			"bonus": 14
+		},
+		{
+			"episode": 10,
+			"round1": 9,
+			"round2": 25,
+			"round3": 30,
+			"round4": 33,
+			"round5": 41,
+			"round6": 44,
+			"bonus": 6
+		},
+		{
+			"episode": 11,
+			"round1": 1,
+			"round2": 7,
+			"round3": 36,
+			"round4": 37,
+			"round5": 41,
+			"round6": 42,
+			"bonus": 14
+		},
+		{
+			"episode": 12,
+			"round1": 2,
+			"round2": 11,
+			"round3": 21,
+			"round4": 25,
+			"round5": 39,
+			"round6": 45,
+			"bonus": 44
+		},
+		{
+			"episode": 13,
+			"round1": 22,
+			"round2": 23,
+			"round3": 25,
+			"round4": 37,
+			"round5": 38,
+			"round6": 42,
+			"bonus": 26
+		},
+		{
+			"episode": 14,
+			"round1": 2,
+			"round2": 6,
+			"round3": 12,
+			"round4": 31,
+			"round5": 33,
+			"round6": 40,
+			"bonus": 15
+		},
+		{
+			"episode": 15,
+			"round1": 3,
+			"round2": 4,
+			"round3": 16,
+			"round4": 30,
+			"round5": 31,
+			"round6": 37,
+			"bonus": 13
+		},
+		{
+			"episode": 16,
+			"round1": 6,
+			"round2": 7,
+			"round3": 24,
+			"round4": 37,
+			"round5": 38,
+			"round6": 40,
+			"bonus": 33
+		},
+		{
+			"episode": 17,
+			"round1": 3,
+			"round2": 4,
+			"round3": 9,
+			"round4": 17,
+			"round5": 32,
+			"round6": 37,
+			"bonus": 1
+		},
+		{
+			"episode": 18,
+			"round1": 3,
+			"round2": 12,
+			"round3": 13,
+			"round4": 19,
+			"round5": 32,
+			"round6": 35,
+			"bonus": 29
+		},
+		{
+			"episode": 19,
+			"round1": 6,
+			"round2": 30,
+			"round3": 38,
+			"round4": 39,
+			"round5": 40,
+			"round6": 43,
+			"bonus": 26
+		},
+		{
+			"episode": 20,
+			"round1": 10,
+			"round2": 14,
+			"round3": 18,
+			"round4": 20,
+			"round5": 23,
+			"round6": 30,
+			"bonus": 41
+		},
+		{
+			"episode": 21,
+			"round1": 6,
+			"round2": 12,
+			"round3": 17,
+			"round4": 18,
+			"round5": 31,
+			"round6": 32,
+			"bonus": 21
+		},
+		{
+			"episode": 22,
+			"round1": 4,
+			"round2": 5,
+			"round3": 6,
+			"round4": 8,
+			"round5": 17,
+			"round6": 39,
+			"bonus": 25
+		},
+		{
+			"episode": 23,
+			"round1": 5,
+			"round2": 13,
+			"round3": 17,
+			"round4": 18,
+			"round5": 33,
+			"round6": 42,
+			"bonus": 44
+		},
+		{
+			"episode": 24,
+			"round1": 7,
+			"round2": 8,
+			"round3": 27,
+			"round4": 29,
+			"round5": 36,
+			"round6": 43,
+			"bonus": 6
+		},
+		{
+			"episode": 25,
+			"round1": 2,
+			"round2": 4,
+			"round3": 21,
+			"round4": 26,
+			"round5": 43,
+			"round6": 44,
+			"bonus": 16
+		},
+		{
+			"episode": 26,
+			"round1": 4,
+			"round2": 5,
+			"round3": 7,
+			"round4": 18,
+			"round5": 20,
+			"round6": 25,
+			"bonus": 31
+		},
+		{
+			"episode": 27,
+			"round1": 1,
+			"round2": 20,
+			"round3": 26,
+			"round4": 28,
+			"round5": 37,
+			"round6": 43,
+			"bonus": 27
+		},
+		{
+			"episode": 28,
+			"round1": 9,
+			"round2": 18,
+			"round3": 23,
+			"round4": 25,
+			"round5": 35,
+			"round6": 37,
+			"bonus": 1
+		},
+		{
+			"episode": 29,
+			"round1": 1,
+			"round2": 5,
+			"round3": 13,
+			"round4": 34,
+			"round5": 39,
+			"round6": 40,
+			"bonus": 11
+		},
+		{
+			"episode": 30,
+			"round1": 8,
+			"round2": 17,
+			"round3": 20,
+			"round4": 35,
+			"round5": 36,
+			"round6": 44,
+			"bonus": 4
+		},
+		{
+			"episode": 31,
+			"round1": 7,
+			"round2": 9,
+			"round3": 18,
+			"round4": 23,
+			"round5": 28,
+			"round6": 35,
+			"bonus": 32
+		},
+		{
+			"episode": 32,
+			"round1": 6,
+			"round2": 14,
+			"round3": 19,
+			"round4": 25,
+			"round5": 34,
+			"round6": 44,
+			"bonus": 11
+		},
+		{
+			"episode": 33,
+			"round1": 4,
+			"round2": 7,
+			"round3": 32,
+			"round4": 33,
+			"round5": 40,
+			"round6": 41,
+			"bonus": 9
+		},
+		{
+			"episode": 34,
+			"round1": 9,
+			"round2": 26,
+			"round3": 35,
+			"round4": 37,
+			"round5": 40,
+			"round6": 42,
+			"bonus": 2
+		},
+		{
+			"episode": 35,
+			"round1": 2,
+			"round2": 3,
+			"round3": 11,
+			"round4": 26,
+			"round5": 37,
+			"round6": 43,
+			"bonus": 39
+		},
+		{
+			"episode": 36,
+			"round1": 1,
+			"round2": 10,
+			"round3": 23,
+			"round4": 26,
+			"round5": 28,
+			"round6": 40,
+			"bonus": 31
+		},
+		{
+			"episode": 37,
+			"round1": 7,
+			"round2": 27,
+			"round3": 30,
+			"round4": 33,
+			"round5": 35,
+			"round6": 37,
+			"bonus": 42
+		},
+		{
+			"episode": 38,
+			"round1": 16,
+			"round2": 17,
+			"round3": 22,
+			"round4": 30,
+			"round5": 37,
+			"round6": 43,
+			"bonus": 36
+		},
+		{
+			"episode": 39,
+			"round1": 6,
+			"round2": 7,
+			"round3": 13,
+			"round4": 15,
+			"round5": 21,
+			"round6": 43,
+			"bonus": 8
+		},
+		{
+			"episode": 40,
+			"round1": 7,
+			"round2": 13,
+			"round3": 18,
+			"round4": 19,
+			"round5": 25,
+			"round6": 26,
+			"bonus": 6
+		},
+		{
+			"episode": 41,
+			"round1": 13,
+			"round2": 20,
+			"round3": 23,
+			"round4": 35,
+			"round5": 38,
+			"round6": 43,
+			"bonus": 34
+		},
+		{
+			"episode": 42,
+			"round1": 17,
+			"round2": 18,
+			"round3": 19,
+			"round4": 21,
+			"round5": 23,
+			"round6": 32,
+			"bonus": 1
+		},
+		{
+			"episode": 43,
+			"round1": 6,
+			"round2": 31,
+			"round3": 35,
+			"round4": 38,
+			"round5": 39,
+			"round6": 44,
+			"bonus": 1
+		},
+		{
+			"episode": 44,
+			"round1": 3,
+			"round2": 11,
+			"round3": 21,
+			"round4": 30,
+			"round5": 38,
+			"round6": 45,
+			"bonus": 39
+		},
+		{
+			"episode": 45,
+			"round1": 1,
+			"round2": 10,
+			"round3": 20,
+			"round4": 27,
+			"round5": 33,
+			"round6": 35,
+			"bonus": 17
+		},
+		{
+			"episode": 46,
+			"round1": 8,
+			"round2": 13,
+			"round3": 15,
+			"round4": 23,
+			"round5": 31,
+			"round6": 38,
+			"bonus": 39
+		},
+		{
+			"episode": 47,
+			"round1": 14,
+			"round2": 17,
+			"round3": 26,
+			"round4": 31,
+			"round5": 36,
+			"round6": 45,
+			"bonus": 27
+		},
+		{
+			"episode": 48,
+			"round1": 6,
+			"round2": 10,
+			"round3": 18,
+			"round4": 26,
+			"round5": 37,
+			"round6": 38,
+			"bonus": 3
+		},
+		{
+			"episode": 49,
+			"round1": 4,
+			"round2": 7,
+			"round3": 16,
+			"round4": 19,
+			"round5": 33,
+			"round6": 40,
+			"bonus": 30
+		},
+		{
+			"episode": 50,
+			"round1": 2,
+			"round2": 10,
+			"round3": 12,
+			"round4": 15,
+			"round5": 22,
+			"round6": 44,
+			"bonus": 1
+		},
+		{
+			"episode": 51,
+			"round1": 2,
+			"round2": 3,
+			"round3": 11,
+			"round4": 16,
+			"round5": 26,
+			"round6": 44,
+			"bonus": 35
+		},
+		{
+			"episode": 52,
+			"round1": 2,
+			"round2": 4,
+			"round3": 15,
+			"round4": 16,
+			"round5": 20,
+			"round6": 29,
+			"bonus": 1
+		},
+		{
+			"episode": 53,
+			"round1": 7,
+			"round2": 8,
+			"round3": 14,
+			"round4": 32,
+			"round5": 33,
+			"round6": 39,
+			"bonus": 42
+		},
+		{
+			"episode": 54,
+			"round1": 1,
+			"round2": 8,
+			"round3": 21,
+			"round4": 27,
+			"round5": 36,
+			"round6": 39,
+			"bonus": 37
+		},
+		{
+			"episode": 55,
+			"round1": 17,
+			"round2": 21,
+			"round3": 31,
+			"round4": 37,
+			"round5": 40,
+			"round6": 44,
+			"bonus": 7
+		},
+		{
+			"episode": 56,
+			"round1": 10,
+			"round2": 14,
+			"round3": 30,
+			"round4": 31,
+			"round5": 33,
+			"round6": 37,
+			"bonus": 19
+		},
+		{
+			"episode": 57,
+			"round1": 7,
+			"round2": 10,
+			"round3": 16,
+			"round4": 25,
+			"round5": 29,
+			"round6": 44,
+			"bonus": 6
+		},
+		{
+			"episode": 58,
+			"round1": 10,
+			"round2": 24,
+			"round3": 25,
+			"round4": 33,
+			"round5": 40,
+			"round6": 44,
+			"bonus": 1
+		},
+		{
+			"episode": 59,
+			"round1": 6,
+			"round2": 29,
+			"round3": 36,
+			"round4": 39,
+			"round5": 41,
+			"round6": 45,
+			"bonus": 13
+		},
+		{
+			"episode": 60,
+			"round1": 2,
+			"round2": 8,
+			"round3": 25,
+			"round4": 36,
+			"round5": 39,
+			"round6": 42,
+			"bonus": 11
+		},
+		{
+			"episode": 61,
+			"round1": 14,
+			"round2": 15,
+			"round3": 19,
+			"round4": 30,
+			"round5": 38,
+			"round6": 43,
+			"bonus": 8
+		},
+		{
+			"episode": 62,
+			"round1": 3,
+			"round2": 8,
+			"round3": 15,
+			"round4": 27,
+			"round5": 29,
+			"round6": 35,
+			"bonus": 21
+		},
+		{
+			"episode": 63,
+			"round1": 3,
+			"round2": 20,
+			"round3": 23,
+			"round4": 36,
+			"round5": 38,
+			"round6": 40,
+			"bonus": 5
+		},
+		{
+			"episode": 64,
+			"round1": 14,
+			"round2": 15,
+			"round3": 18,
+			"round4": 21,
+			"round5": 26,
+			"round6": 36,
+			"bonus": 39
+		},
+		{
+			"episode": 65,
+			"round1": 4,
+			"round2": 25,
+			"round3": 33,
+			"round4": 36,
+			"round5": 40,
+			"round6": 43,
+			"bonus": 39
+		},
+		{
+			"episode": 66,
+			"round1": 2,
+			"round2": 3,
+			"round3": 7,
+			"round4": 17,
+			"round5": 22,
+			"round6": 24,
+			"bonus": 45
+		},
+		{
+			"episode": 67,
+			"round1": 3,
+			"round2": 7,
+			"round3": 10,
+			"round4": 15,
+			"round5": 36,
+			"round6": 38,
+			"bonus": 33
+		},
+		{
+			"episode": 68,
+			"round1": 10,
+			"round2": 12,
+			"round3": 15,
+			"round4": 16,
+			"round5": 26,
+			"round6": 39,
+			"bonus": 38
+		},
+		{
+			"episode": 69,
+			"round1": 5,
+			"round2": 8,
+			"round3": 14,
+			"round4": 15,
+			"round5": 19,
+			"round6": 39,
+			"bonus": 35
+		},
+		{
+			"episode": 70,
+			"round1": 5,
+			"round2": 19,
+			"round3": 22,
+			"round4": 25,
+			"round5": 28,
+			"round6": 43,
+			"bonus": 26
+		},
+		{
+			"episode": 71,
+			"round1": 5,
+			"round2": 9,
+			"round3": 12,
+			"round4": 16,
+			"round5": 29,
+			"round6": 41,
+			"bonus": 21
+		},
+		{
+			"episode": 72,
+			"round1": 2,
+			"round2": 4,
+			"round3": 11,
+			"round4": 17,
+			"round5": 26,
+			"round6": 27,
+			"bonus": 1
+		},
+		{
+			"episode": 73,
+			"round1": 3,
+			"round2": 12,
+			"round3": 18,
+			"round4": 32,
+			"round5": 40,
+			"round6": 43,
+			"bonus": 38
+		},
+		{
+			"episode": 74,
+			"round1": 6,
+			"round2": 15,
+			"round3": 17,
+			"round4": 18,
+			"round5": 35,
+			"round6": 40,
+			"bonus": 23
+		},
+		{
+			"episode": 75,
+			"round1": 2,
+			"round2": 5,
+			"round3": 24,
+			"round4": 32,
+			"round5": 34,
+			"round6": 44,
+			"bonus": 28
+		},
+		{
+			"episode": 76,
+			"round1": 1,
+			"round2": 3,
+			"round3": 15,
+			"round4": 22,
+			"round5": 25,
+			"round6": 37,
+			"bonus": 43
+		},
+		{
+			"episode": 77,
+			"round1": 2,
+			"round2": 18,
+			"round3": 29,
+			"round4": 32,
+			"round5": 43,
+			"round6": 44,
+			"bonus": 37
+		},
+		{
+			"episode": 78,
+			"round1": 10,
+			"round2": 13,
+			"round3": 25,
+			"round4": 29,
+			"round5": 33,
+			"round6": 35,
+			"bonus": 38
+		},
+		{
+			"episode": 79,
+			"round1": 3,
+			"round2": 12,
+			"round3": 24,
+			"round4": 27,
+			"round5": 30,
+			"round6": 32,
+			"bonus": 14
+		},
+		{
+			"episode": 80,
+			"round1": 17,
+			"round2": 18,
+			"round3": 24,
+			"round4": 25,
+			"round5": 26,
+			"round6": 30,
+			"bonus": 1
+		},
+		{
+			"episode": 81,
+			"round1": 5,
+			"round2": 7,
+			"round3": 11,
+			"round4": 13,
+			"round5": 20,
+			"round6": 33,
+			"bonus": 6
+		},
+		{
+			"episode": 82,
+			"round1": 1,
+			"round2": 2,
+			"round3": 3,
+			"round4": 14,
+			"round5": 27,
+			"round6": 42,
+			"bonus": 39
+		},
+		{
+			"episode": 83,
+			"round1": 6,
+			"round2": 10,
+			"round3": 15,
+			"round4": 17,
+			"round5": 19,
+			"round6": 34,
+			"bonus": 14
+		},
+		{
+			"episode": 84,
+			"round1": 16,
+			"round2": 23,
+			"round3": 27,
+			"round4": 34,
+			"round5": 42,
+			"round6": 45,
+			"bonus": 11
+		},
+		{
+			"episode": 85,
+			"round1": 6,
+			"round2": 8,
+			"round3": 13,
+			"round4": 23,
+			"round5": 31,
+			"round6": 36,
+			"bonus": 21
+		},
+		{
+			"episode": 86,
+			"round1": 2,
+			"round2": 12,
+			"round3": 37,
+			"round4": 39,
+			"round5": 41,
+			"round6": 45,
+			"bonus": 33
+		},
+		{
+			"episode": 87,
+			"round1": 4,
+			"round2": 12,
+			"round3": 16,
+			"round4": 23,
+			"round5": 34,
+			"round6": 43,
+			"bonus": 26
+		},
+		{
+			"episode": 88,
+			"round1": 1,
+			"round2": 17,
+			"round3": 20,
+			"round4": 24,
+			"round5": 30,
+			"round6": 41,
+			"bonus": 27
+		},
+		{
+			"episode": 89,
+			"round1": 4,
+			"round2": 26,
+			"round3": 28,
+			"round4": 29,
+			"round5": 33,
+			"round6": 40,
+			"bonus": 37
+		},
+		{
+			"episode": 90,
+			"round1": 17,
+			"round2": 20,
+			"round3": 29,
+			"round4": 35,
+			"round5": 38,
+			"round6": 44,
+			"bonus": 10
+		},
+		{
+			"episode": 91,
+			"round1": 1,
+			"round2": 21,
+			"round3": 24,
+			"round4": 26,
+			"round5": 29,
+			"round6": 42,
+			"bonus": 27
+		},
+		{
+			"episode": 92,
+			"round1": 3,
+			"round2": 14,
+			"round3": 24,
+			"round4": 33,
+			"round5": 35,
+			"round6": 36,
+			"bonus": 17
+		},
+		{
+			"episode": 93,
+			"round1": 6,
+			"round2": 22,
+			"round3": 24,
+			"round4": 36,
+			"round5": 38,
+			"round6": 44,
+			"bonus": 19
+		},
+		{
+			"episode": 94,
+			"round1": 5,
+			"round2": 32,
+			"round3": 34,
+			"round4": 40,
+			"round5": 41,
+			"round6": 45,
+			"bonus": 6
+		},
+		{
+			"episode": 95,
+			"round1": 8,
+			"round2": 17,
+			"round3": 27,
+			"round4": 31,
+			"round5": 34,
+			"round6": 43,
+			"bonus": 14
+		},
+		{
+			"episode": 96,
+			"round1": 1,
+			"round2": 3,
+			"round3": 8,
+			"round4": 21,
+			"round5": 22,
+			"round6": 31,
+			"bonus": 20
+		},
+		{
+			"episode": 97,
+			"round1": 6,
+			"round2": 7,
+			"round3": 14,
+			"round4": 15,
+			"round5": 20,
+			"round6": 36,
+			"bonus": 3
+		},
+		{
+			"episode": 98,
+			"round1": 6,
+			"round2": 9,
+			"round3": 16,
+			"round4": 23,
+			"round5": 24,
+			"round6": 32,
+			"bonus": 43
+		},
+		{
+			"episode": 99,
+			"round1": 1,
+			"round2": 3,
+			"round3": 10,
+			"round4": 27,
+			"round5": 29,
+			"round6": 37,
+			"bonus": 11
+		},
+		{
+			"episode": 100,
+			"round1": 1,
+			"round2": 7,
+			"round3": 11,
+			"round4": 23,
+			"round5": 37,
+			"round6": 42,
+			"bonus": 6
+		},
+		{
+			"episode": 101,
+			"round1": 1,
+			"round2": 3,
+			"round3": 17,
+			"round4": 32,
+			"round5": 35,
+			"round6": 45,
+			"bonus": 8
+		},
+		{
+			"episode": 102,
+			"round1": 17,
+			"round2": 22,
+			"round3": 24,
+			"round4": 26,
+			"round5": 35,
+			"round6": 40,
+			"bonus": 42
+		},
+		{
+			"episode": 103,
+			"round1": 5,
+			"round2": 14,
+			"round3": 15,
+			"round4": 27,
+			"round5": 30,
+			"round6": 45,
+			"bonus": 10
+		},
+		{
+			"episode": 104,
+			"round1": 17,
+			"round2": 32,
+			"round3": 33,
+			"round4": 34,
+			"round5": 42,
+			"round6": 44,
+			"bonus": 35
+		},
+		{
+			"episode": 105,
+			"round1": 8,
+			"round2": 10,
+			"round3": 20,
+			"round4": 34,
+			"round5": 41,
+			"round6": 45,
+			"bonus": 28
+		},
+		{
+			"episode": 106,
+			"round1": 4,
+			"round2": 10,
+			"round3": 12,
+			"round4": 22,
+			"round5": 24,
+			"round6": 33,
+			"bonus": 29
+		},
+		{
+			"episode": 107,
+			"round1": 1,
+			"round2": 4,
+			"round3": 5,
+			"round4": 6,
+			"round5": 9,
+			"round6": 31,
+			"bonus": 17
+		},
+		{
+			"episode": 108,
+			"round1": 7,
+			"round2": 18,
+			"round3": 22,
+			"round4": 23,
+			"round5": 29,
+			"round6": 44,
+			"bonus": 12
+		},
+		{
+			"episode": 109,
+			"round1": 1,
+			"round2": 5,
+			"round3": 34,
+			"round4": 36,
+			"round5": 42,
+			"round6": 44,
+			"bonus": 33
+		},
+		{
+			"episode": 110,
+			"round1": 7,
+			"round2": 20,
+			"round3": 22,
+			"round4": 23,
+			"round5": 29,
+			"round6": 43,
+			"bonus": 1
+		},
+		{
+			"episode": 111,
+			"round1": 7,
+			"round2": 18,
+			"round3": 31,
+			"round4": 33,
+			"round5": 36,
+			"round6": 40,
+			"bonus": 27
+		},
+		{
+			"episode": 112,
+			"round1": 26,
+			"round2": 29,
+			"round3": 30,
+			"round4": 33,
+			"round5": 41,
+			"round6": 42,
+			"bonus": 43
+		},
+		{
+			"episode": 113,
+			"round1": 4,
+			"round2": 9,
+			"round3": 28,
+			"round4": 33,
+			"round5": 36,
+			"round6": 45,
+			"bonus": 26
+		},
+		{
+			"episode": 114,
+			"round1": 11,
+			"round2": 14,
+			"round3": 19,
+			"round4": 26,
+			"round5": 28,
+			"round6": 41,
+			"bonus": 2
+		},
+		{
+			"episode": 115,
+			"round1": 1,
+			"round2": 2,
+			"round3": 6,
+			"round4": 9,
+			"round5": 25,
+			"round6": 28,
+			"bonus": 31
+		},
+		{
+			"episode": 116,
+			"round1": 2,
+			"round2": 4,
+			"round3": 25,
+			"round4": 31,
+			"round5": 34,
+			"round6": 37,
+			"bonus": 17
+		},
+		{
+			"episode": 117,
+			"round1": 5,
+			"round2": 10,
+			"round3": 22,
+			"round4": 34,
+			"round5": 36,
+			"round6": 44,
+			"bonus": 35
+		},
+		{
+			"episode": 118,
+			"round1": 3,
+			"round2": 4,
+			"round3": 10,
+			"round4": 17,
+			"round5": 19,
+			"round6": 22,
+			"bonus": 38
+		},
+		{
+			"episode": 119,
+			"round1": 3,
+			"round2": 11,
+			"round3": 13,
+			"round4": 14,
+			"round5": 17,
+			"round6": 21,
+			"bonus": 38
+		},
+		{
+			"episode": 120,
+			"round1": 4,
+			"round2": 6,
+			"round3": 10,
+			"round4": 11,
+			"round5": 32,
+			"round6": 37,
+			"bonus": 30
+		},
+		{
+			"episode": 121,
+			"round1": 12,
+			"round2": 28,
+			"round3": 30,
+			"round4": 34,
+			"round5": 38,
+			"round6": 43,
+			"bonus": 9
+		},
+		{
+			"episode": 122,
+			"round1": 1,
+			"round2": 11,
+			"round3": 16,
+			"round4": 17,
+			"round5": 36,
+			"round6": 40,
+			"bonus": 8
+		},
+		{
+			"episode": 123,
+			"round1": 7,
+			"round2": 17,
+			"round3": 18,
+			"round4": 28,
+			"round5": 30,
+			"round6": 45,
+			"bonus": 27
+		},
+		{
+			"episode": 124,
+			"round1": 4,
+			"round2": 16,
+			"round3": 23,
+			"round4": 25,
+			"round5": 29,
+			"round6": 42,
+			"bonus": 1
+		},
+		{
+			"episode": 125,
+			"round1": 2,
+			"round2": 8,
+			"round3": 32,
+			"round4": 33,
+			"round5": 35,
+			"round6": 36,
+			"bonus": 18
+		},
+		{
+			"episode": 126,
+			"round1": 7,
+			"round2": 20,
+			"round3": 22,
+			"round4": 27,
+			"round5": 40,
+			"round6": 43,
+			"bonus": 1
+		},
+		{
+			"episode": 127,
+			"round1": 3,
+			"round2": 5,
+			"round3": 10,
+			"round4": 29,
+			"round5": 32,
+			"round6": 43,
+			"bonus": 35
+		},
+		{
+			"episode": 128,
+			"round1": 12,
+			"round2": 30,
+			"round3": 34,
+			"round4": 36,
+			"round5": 37,
+			"round6": 45,
+			"bonus": 39
+		},
+		{
+			"episode": 129,
+			"round1": 19,
+			"round2": 23,
+			"round3": 25,
+			"round4": 28,
+			"round5": 38,
+			"round6": 42,
+			"bonus": 17
+		},
+		{
+			"episode": 130,
+			"round1": 7,
+			"round2": 19,
+			"round3": 24,
+			"round4": 27,
+			"round5": 42,
+			"round6": 45,
+			"bonus": 31
+		},
+		{
+			"episode": 131,
+			"round1": 8,
+			"round2": 10,
+			"round3": 11,
+			"round4": 14,
+			"round5": 15,
+			"round6": 21,
+			"bonus": 37
+		},
+		{
+			"episode": 132,
+			"round1": 3,
+			"round2": 17,
+			"round3": 23,
+			"round4": 34,
+			"round5": 41,
+			"round6": 45,
+			"bonus": 43
+		},
+		{
+			"episode": 133,
+			"round1": 4,
+			"round2": 7,
+			"round3": 15,
+			"round4": 18,
+			"round5": 23,
+			"round6": 26,
+			"bonus": 13
+		},
+		{
+			"episode": 134,
+			"round1": 3,
+			"round2": 12,
+			"round3": 20,
+			"round4": 23,
+			"round5": 31,
+			"round6": 35,
+			"bonus": 43
+		},
+		{
+			"episode": 135,
+			"round1": 6,
+			"round2": 14,
+			"round3": 22,
+			"round4": 28,
+			"round5": 35,
+			"round6": 39,
+			"bonus": 16
+		},
+		{
+			"episode": 136,
+			"round1": 2,
+			"round2": 16,
+			"round3": 30,
+			"round4": 36,
+			"round5": 41,
+			"round6": 42,
+			"bonus": 11
+		},
+		{
+			"episode": 137,
+			"round1": 7,
+			"round2": 9,
+			"round3": 20,
+			"round4": 25,
+			"round5": 36,
+			"round6": 39,
+			"bonus": 15
+		},
+		{
+			"episode": 138,
+			"round1": 10,
+			"round2": 11,
+			"round3": 27,
+			"round4": 28,
+			"round5": 37,
+			"round6": 39,
+			"bonus": 19
+		},
+		{
+			"episode": 139,
+			"round1": 9,
+			"round2": 11,
+			"round3": 15,
+			"round4": 20,
+			"round5": 28,
+			"round6": 43,
+			"bonus": 13
+		},
+		{
+			"episode": 140,
+			"round1": 3,
+			"round2": 13,
+			"round3": 17,
+			"round4": 18,
+			"round5": 19,
+			"round6": 28,
+			"bonus": 8
+		},
+		{
+			"episode": 141,
+			"round1": 8,
+			"round2": 12,
+			"round3": 29,
+			"round4": 31,
+			"round5": 42,
+			"round6": 43,
+			"bonus": 2
+		},
+		{
+			"episode": 142,
+			"round1": 12,
+			"round2": 16,
+			"round3": 30,
+			"round4": 34,
+			"round5": 40,
+			"round6": 44,
+			"bonus": 19
+		},
+		{
+			"episode": 143,
+			"round1": 26,
+			"round2": 27,
+			"round3": 28,
+			"round4": 42,
+			"round5": 43,
+			"round6": 45,
+			"bonus": 8
+		},
+		{
+			"episode": 144,
+			"round1": 4,
+			"round2": 15,
+			"round3": 17,
+			"round4": 26,
+			"round5": 36,
+			"round6": 37,
+			"bonus": 43
+		},
+		{
+			"episode": 145,
+			"round1": 2,
+			"round2": 3,
+			"round3": 13,
+			"round4": 20,
+			"round5": 27,
+			"round6": 44,
+			"bonus": 9
+		},
+		{
+			"episode": 146,
+			"round1": 2,
+			"round2": 19,
+			"round3": 27,
+			"round4": 35,
+			"round5": 41,
+			"round6": 42,
+			"bonus": 25
+		},
+		{
+			"episode": 147,
+			"round1": 4,
+			"round2": 6,
+			"round3": 13,
+			"round4": 21,
+			"round5": 40,
+			"round6": 42,
+			"bonus": 36
+		},
+		{
+			"episode": 148,
+			"round1": 21,
+			"round2": 25,
+			"round3": 33,
+			"round4": 34,
+			"round5": 35,
+			"round6": 36,
+			"bonus": 17
+		},
+		{
+			"episode": 149,
+			"round1": 2,
+			"round2": 11,
+			"round3": 21,
+			"round4": 34,
+			"round5": 41,
+			"round6": 42,
+			"bonus": 27
+		},
+		{
+			"episode": 150,
+			"round1": 2,
+			"round2": 18,
+			"round3": 25,
+			"round4": 28,
+			"round5": 37,
+			"round6": 39,
+			"bonus": 16
+		},
+		{
+			"episode": 151,
+			"round1": 1,
+			"round2": 2,
+			"round3": 10,
+			"round4": 13,
+			"round5": 18,
+			"round6": 19,
+			"bonus": 15
+		},
+		{
+			"episode": 152,
+			"round1": 1,
+			"round2": 5,
+			"round3": 13,
+			"round4": 26,
+			"round5": 29,
+			"round6": 34,
+			"bonus": 43
+		},
+		{
+			"episode": 153,
+			"round1": 3,
+			"round2": 8,
+			"round3": 11,
+			"round4": 12,
+			"round5": 13,
+			"round6": 36,
+			"bonus": 33
+		},
+		{
+			"episode": 154,
+			"round1": 6,
+			"round2": 19,
+			"round3": 21,
+			"round4": 35,
+			"round5": 40,
+			"round6": 45,
+			"bonus": 20
+		},
+		{
+			"episode": 155,
+			"round1": 16,
+			"round2": 19,
+			"round3": 20,
+			"round4": 32,
+			"round5": 33,
+			"round6": 41,
+			"bonus": 4
+		},
+		{
+			"episode": 156,
+			"round1": 5,
+			"round2": 18,
+			"round3": 28,
+			"round4": 30,
+			"round5": 42,
+			"round6": 45,
+			"bonus": 2
+		},
+		{
+			"episode": 157,
+			"round1": 19,
+			"round2": 26,
+			"round3": 30,
+			"round4": 33,
+			"round5": 35,
+			"round6": 39,
+			"bonus": 37
+		},
+		{
+			"episode": 158,
+			"round1": 4,
+			"round2": 9,
+			"round3": 13,
+			"round4": 18,
+			"round5": 21,
+			"round6": 34,
+			"bonus": 7
+		},
+		{
+			"episode": 159,
+			"round1": 1,
+			"round2": 18,
+			"round3": 30,
+			"round4": 41,
+			"round5": 42,
+			"round6": 43,
+			"bonus": 32
+		},
+		{
+			"episode": 160,
+			"round1": 3,
+			"round2": 7,
+			"round3": 8,
+			"round4": 34,
+			"round5": 39,
+			"round6": 41,
+			"bonus": 1
+		},
+		{
+			"episode": 161,
+			"round1": 22,
+			"round2": 34,
+			"round3": 36,
+			"round4": 40,
+			"round5": 42,
+			"round6": 45,
+			"bonus": 44
+		},
+		{
+			"episode": 162,
+			"round1": 1,
+			"round2": 5,
+			"round3": 21,
+			"round4": 25,
+			"round5": 38,
+			"round6": 41,
+			"bonus": 24
+		},
+		{
+			"episode": 163,
+			"round1": 7,
+			"round2": 11,
+			"round3": 26,
+			"round4": 28,
+			"round5": 29,
+			"round6": 44,
+			"bonus": 16
+		},
+		{
+			"episode": 164,
+			"round1": 6,
+			"round2": 9,
+			"round3": 10,
+			"round4": 11,
+			"round5": 39,
+			"round6": 41,
+			"bonus": 27
+		},
+		{
+			"episode": 165,
+			"round1": 5,
+			"round2": 13,
+			"round3": 18,
+			"round4": 19,
+			"round5": 22,
+			"round6": 42,
+			"bonus": 31
+		},
+		{
+			"episode": 166,
+			"round1": 9,
+			"round2": 12,
+			"round3": 27,
+			"round4": 36,
+			"round5": 39,
+			"round6": 45,
+			"bonus": 14
+		},
+		{
+			"episode": 167,
+			"round1": 24,
+			"round2": 27,
+			"round3": 28,
+			"round4": 30,
+			"round5": 36,
+			"round6": 39,
+			"bonus": 4
+		},
+		{
+			"episode": 168,
+			"round1": 3,
+			"round2": 10,
+			"round3": 31,
+			"round4": 40,
+			"round5": 42,
+			"round6": 43,
+			"bonus": 30
+		},
+		{
+			"episode": 169,
+			"round1": 16,
+			"round2": 27,
+			"round3": 35,
+			"round4": 37,
+			"round5": 43,
+			"round6": 45,
+			"bonus": 19
+		},
+		{
+			"episode": 170,
+			"round1": 2,
+			"round2": 11,
+			"round3": 13,
+			"round4": 15,
+			"round5": 31,
+			"round6": 42,
+			"bonus": 10
+		},
+		{
+			"episode": 171,
+			"round1": 4,
+			"round2": 16,
+			"round3": 25,
+			"round4": 29,
+			"round5": 34,
+			"round6": 35,
+			"bonus": 1
+		},
+		{
+			"episode": 172,
+			"round1": 4,
+			"round2": 19,
+			"round3": 21,
+			"round4": 24,
+			"round5": 26,
+			"round6": 41,
+			"bonus": 35
+		},
+		{
+			"episode": 173,
+			"round1": 3,
+			"round2": 9,
+			"round3": 24,
+			"round4": 30,
+			"round5": 33,
+			"round6": 34,
+			"bonus": 18
+		},
+		{
+			"episode": 174,
+			"round1": 13,
+			"round2": 14,
+			"round3": 18,
+			"round4": 22,
+			"round5": 35,
+			"round6": 39,
+			"bonus": 16
+		},
+		{
+			"episode": 175,
+			"round1": 19,
+			"round2": 26,
+			"round3": 28,
+			"round4": 31,
+			"round5": 33,
+			"round6": 36,
+			"bonus": 17
+		},
+		{
+			"episode": 176,
+			"round1": 4,
+			"round2": 17,
+			"round3": 30,
+			"round4": 32,
+			"round5": 33,
+			"round6": 34,
+			"bonus": 15
+		},
+		{
+			"episode": 177,
+			"round1": 1,
+			"round2": 10,
+			"round3": 13,
+			"round4": 16,
+			"round5": 37,
+			"round6": 43,
+			"bonus": 6
+		},
+		{
+			"episode": 178,
+			"round1": 1,
+			"round2": 5,
+			"round3": 11,
+			"round4": 12,
+			"round5": 18,
+			"round6": 23,
+			"bonus": 9
+		},
+		{
+			"episode": 179,
+			"round1": 5,
+			"round2": 9,
+			"round3": 17,
+			"round4": 25,
+			"round5": 39,
+			"round6": 43,
+			"bonus": 32
+		},
+		{
+			"episode": 180,
+			"round1": 2,
+			"round2": 15,
+			"round3": 20,
+			"round4": 21,
+			"round5": 29,
+			"round6": 34,
+			"bonus": 22
+		},
+		{
+			"episode": 181,
+			"round1": 14,
+			"round2": 21,
+			"round3": 23,
+			"round4": 32,
+			"round5": 40,
+			"round6": 45,
+			"bonus": 44
+		},
+		{
+			"episode": 182,
+			"round1": 13,
+			"round2": 15,
+			"round3": 27,
+			"round4": 29,
+			"round5": 34,
+			"round6": 40,
+			"bonus": 35
+		},
+		{
+			"episode": 183,
+			"round1": 2,
+			"round2": 18,
+			"round3": 24,
+			"round4": 34,
+			"round5": 40,
+			"round6": 42,
+			"bonus": 5
+		},
+		{
+			"episode": 184,
+			"round1": 1,
+			"round2": 2,
+			"round3": 6,
+			"round4": 16,
+			"round5": 20,
+			"round6": 33,
+			"bonus": 41
+		},
+		{
+			"episode": 185,
+			"round1": 1,
+			"round2": 2,
+			"round3": 4,
+			"round4": 8,
+			"round5": 19,
+			"round6": 38,
+			"bonus": 14
+		},
+		{
+			"episode": 186,
+			"round1": 4,
+			"round2": 10,
+			"round3": 14,
+			"round4": 19,
+			"round5": 21,
+			"round6": 45,
+			"bonus": 9
+		},
+		{
+			"episode": 187,
+			"round1": 1,
+			"round2": 2,
+			"round3": 8,
+			"round4": 18,
+			"round5": 29,
+			"round6": 38,
+			"bonus": 42
+		},
+		{
+			"episode": 188,
+			"round1": 19,
+			"round2": 24,
+			"round3": 27,
+			"round4": 30,
+			"round5": 31,
+			"round6": 34,
+			"bonus": 36
+		},
+		{
+			"episode": 189,
+			"round1": 8,
+			"round2": 14,
+			"round3": 32,
+			"round4": 35,
+			"round5": 37,
+			"round6": 45,
+			"bonus": 28
+		},
+		{
+			"episode": 190,
+			"round1": 8,
+			"round2": 14,
+			"round3": 18,
+			"round4": 30,
+			"round5": 31,
+			"round6": 44,
+			"bonus": 15
+		},
+		{
+			"episode": 191,
+			"round1": 5,
+			"round2": 6,
+			"round3": 24,
+			"round4": 25,
+			"round5": 32,
+			"round6": 37,
+			"bonus": 8
+		},
+		{
+			"episode": 192,
+			"round1": 4,
+			"round2": 8,
+			"round3": 11,
+			"round4": 18,
+			"round5": 37,
+			"round6": 45,
+			"bonus": 33
+		},
+		{
+			"episode": 193,
+			"round1": 6,
+			"round2": 14,
+			"round3": 18,
+			"round4": 26,
+			"round5": 36,
+			"round6": 39,
+			"bonus": 13
+		},
+		{
+			"episode": 194,
+			"round1": 15,
+			"round2": 20,
+			"round3": 23,
+			"round4": 26,
+			"round5": 39,
+			"round6": 44,
+			"bonus": 28
+		},
+		{
+			"episode": 195,
+			"round1": 7,
+			"round2": 10,
+			"round3": 19,
+			"round4": 22,
+			"round5": 35,
+			"round6": 40,
+			"bonus": 31
+		},
+		{
+			"episode": 196,
+			"round1": 35,
+			"round2": 36,
+			"round3": 37,
+			"round4": 41,
+			"round5": 44,
+			"round6": 45,
+			"bonus": 30
+		},
+		{
+			"episode": 197,
+			"round1": 7,
+			"round2": 12,
+			"round3": 16,
+			"round4": 34,
+			"round5": 42,
+			"round6": 45,
+			"bonus": 4
+		},
+		{
+			"episode": 198,
+			"round1": 12,
+			"round2": 19,
+			"round3": 20,
+			"round4": 25,
+			"round5": 41,
+			"round6": 45,
+			"bonus": 2
+		},
+		{
+			"episode": 199,
+			"round1": 14,
+			"round2": 21,
+			"round3": 22,
+			"round4": 25,
+			"round5": 30,
+			"round6": 36,
+			"bonus": 43
+		},
+		{
+			"episode": 200,
+			"round1": 5,
+			"round2": 6,
+			"round3": 13,
+			"round4": 14,
+			"round5": 17,
+			"round6": 20,
+			"bonus": 7
+		},
+		{
+			"episode": 201,
+			"round1": 3,
+			"round2": 11,
+			"round3": 24,
+			"round4": 38,
+			"round5": 39,
+			"round6": 44,
+			"bonus": 26
+		},
+		{
+			"episode": 202,
+			"round1": 12,
+			"round2": 14,
+			"round3": 27,
+			"round4": 33,
+			"round5": 39,
+			"round6": 44,
+			"bonus": 17
+		},
+		{
+			"episode": 203,
+			"round1": 1,
+			"round2": 3,
+			"round3": 11,
+			"round4": 24,
+			"round5": 30,
+			"round6": 32,
+			"bonus": 7
+		},
+		{
+			"episode": 204,
+			"round1": 3,
+			"round2": 12,
+			"round3": 14,
+			"round4": 35,
+			"round5": 40,
+			"round6": 45,
+			"bonus": 5
+		},
+		{
+			"episode": 205,
+			"round1": 1,
+			"round2": 3,
+			"round3": 21,
+			"round4": 29,
+			"round5": 35,
+			"round6": 37,
+			"bonus": 30
+		},
+		{
+			"episode": 206,
+			"round1": 1,
+			"round2": 2,
+			"round3": 3,
+			"round4": 15,
+			"round5": 20,
+			"round6": 25,
+			"bonus": 43
+		},
+		{
+			"episode": 207,
+			"round1": 3,
+			"round2": 11,
+			"round3": 14,
+			"round4": 31,
+			"round5": 32,
+			"round6": 37,
+			"bonus": 38
+		},
+		{
+			"episode": 208,
+			"round1": 14,
+			"round2": 25,
+			"round3": 31,
+			"round4": 34,
+			"round5": 40,
+			"round6": 44,
+			"bonus": 24
+		},
+		{
+			"episode": 209,
+			"round1": 2,
+			"round2": 7,
+			"round3": 18,
+			"round4": 20,
+			"round5": 24,
+			"round6": 33,
+			"bonus": 37
+		},
+		{
+			"episode": 210,
+			"round1": 10,
+			"round2": 19,
+			"round3": 22,
+			"round4": 23,
+			"round5": 25,
+			"round6": 37,
+			"bonus": 39
+		},
+		{
+			"episode": 211,
+			"round1": 12,
+			"round2": 13,
+			"round3": 17,
+			"round4": 20,
+			"round5": 33,
+			"round6": 41,
+			"bonus": 8
+		},
+		{
+			"episode": 212,
+			"round1": 11,
+			"round2": 12,
+			"round3": 18,
+			"round4": 21,
+			"round5": 31,
+			"round6": 38,
+			"bonus": 8
+		},
+		{
+			"episode": 213,
+			"round1": 2,
+			"round2": 3,
+			"round3": 4,
+			"round4": 5,
+			"round5": 20,
+			"round6": 24,
+			"bonus": 42
+		},
+		{
+			"episode": 214,
+			"round1": 5,
+			"round2": 7,
+			"round3": 20,
+			"round4": 25,
+			"round5": 28,
+			"round6": 37,
+			"bonus": 32
+		},
+		{
+			"episode": 215,
+			"round1": 2,
+			"round2": 3,
+			"round3": 7,
+			"round4": 15,
+			"round5": 43,
+			"round6": 44,
+			"bonus": 4
+		},
+		{
+			"episode": 216,
+			"round1": 7,
+			"round2": 16,
+			"round3": 17,
+			"round4": 33,
+			"round5": 36,
+			"round6": 40,
+			"bonus": 1
+		},
+		{
+			"episode": 217,
+			"round1": 16,
+			"round2": 20,
+			"round3": 27,
+			"round4": 33,
+			"round5": 35,
+			"round6": 39,
+			"bonus": 38
+		},
+		{
+			"episode": 218,
+			"round1": 1,
+			"round2": 8,
+			"round3": 14,
+			"round4": 18,
+			"round5": 29,
+			"round6": 44,
+			"bonus": 20
+		},
+		{
+			"episode": 219,
+			"round1": 4,
+			"round2": 11,
+			"round3": 20,
+			"round4": 26,
+			"round5": 35,
+			"round6": 37,
+			"bonus": 16
+		},
+		{
+			"episode": 220,
+			"round1": 5,
+			"round2": 11,
+			"round3": 19,
+			"round4": 21,
+			"round5": 34,
+			"round6": 43,
+			"bonus": 31
+		},
+		{
+			"episode": 221,
+			"round1": 2,
+			"round2": 20,
+			"round3": 33,
+			"round4": 35,
+			"round5": 37,
+			"round6": 40,
+			"bonus": 10
+		},
+		{
+			"episode": 222,
+			"round1": 5,
+			"round2": 7,
+			"round3": 28,
+			"round4": 29,
+			"round5": 39,
+			"round6": 43,
+			"bonus": 44
+		},
+		{
+			"episode": 223,
+			"round1": 1,
+			"round2": 3,
+			"round3": 18,
+			"round4": 20,
+			"round5": 26,
+			"round6": 27,
+			"bonus": 38
+		},
+		{
+			"episode": 224,
+			"round1": 4,
+			"round2": 19,
+			"round3": 26,
+			"round4": 27,
+			"round5": 30,
+			"round6": 42,
+			"bonus": 7
+		},
+		{
+			"episode": 225,
+			"round1": 5,
+			"round2": 11,
+			"round3": 13,
+			"round4": 19,
+			"round5": 31,
+			"round6": 36,
+			"bonus": 7
+		},
+		{
+			"episode": 226,
+			"round1": 2,
+			"round2": 6,
+			"round3": 8,
+			"round4": 14,
+			"round5": 21,
+			"round6": 22,
+			"bonus": 34
+		},
+		{
+			"episode": 227,
+			"round1": 4,
+			"round2": 5,
+			"round3": 15,
+			"round4": 16,
+			"round5": 22,
+			"round6": 42,
+			"bonus": 2
+		},
+		{
+			"episode": 228,
+			"round1": 17,
+			"round2": 25,
+			"round3": 35,
+			"round4": 36,
+			"round5": 39,
+			"round6": 44,
+			"bonus": 23
+		},
+		{
+			"episode": 229,
+			"round1": 4,
+			"round2": 5,
+			"round3": 9,
+			"round4": 11,
+			"round5": 23,
+			"round6": 38,
+			"bonus": 35
+		},
+		{
+			"episode": 230,
+			"round1": 5,
+			"round2": 11,
+			"round3": 14,
+			"round4": 29,
+			"round5": 32,
+			"round6": 33,
+			"bonus": 12
+		},
+		{
+			"episode": 231,
+			"round1": 5,
+			"round2": 10,
+			"round3": 19,
+			"round4": 31,
+			"round5": 44,
+			"round6": 45,
+			"bonus": 27
+		},
+		{
+			"episode": 232,
+			"round1": 8,
+			"round2": 9,
+			"round3": 10,
+			"round4": 12,
+			"round5": 24,
+			"round6": 44,
+			"bonus": 35
+		},
+		{
+			"episode": 233,
+			"round1": 4,
+			"round2": 6,
+			"round3": 13,
+			"round4": 17,
+			"round5": 28,
+			"round6": 40,
+			"bonus": 39
+		},
+		{
+			"episode": 234,
+			"round1": 13,
+			"round2": 21,
+			"round3": 22,
+			"round4": 24,
+			"round5": 26,
+			"round6": 37,
+			"bonus": 4
+		},
+		{
+			"episode": 235,
+			"round1": 21,
+			"round2": 22,
+			"round3": 26,
+			"round4": 27,
+			"round5": 31,
+			"round6": 37,
+			"bonus": 8
+		},
+		{
+			"episode": 236,
+			"round1": 1,
+			"round2": 4,
+			"round3": 8,
+			"round4": 13,
+			"round5": 37,
+			"round6": 39,
+			"bonus": 7
+		},
+		{
+			"episode": 237,
+			"round1": 1,
+			"round2": 11,
+			"round3": 17,
+			"round4": 21,
+			"round5": 24,
+			"round6": 44,
+			"bonus": 33
+		},
+		{
+			"episode": 238,
+			"round1": 2,
+			"round2": 4,
+			"round3": 15,
+			"round4": 28,
+			"round5": 31,
+			"round6": 34,
+			"bonus": 35
+		},
+		{
+			"episode": 239,
+			"round1": 11,
+			"round2": 15,
+			"round3": 24,
+			"round4": 39,
+			"round5": 41,
+			"round6": 44,
+			"bonus": 7
+		},
+		{
+			"episode": 240,
+			"round1": 6,
+			"round2": 10,
+			"round3": 16,
+			"round4": 40,
+			"round5": 41,
+			"round6": 43,
+			"bonus": 21
+		},
+		{
+			"episode": 241,
+			"round1": 2,
+			"round2": 16,
+			"round3": 24,
+			"round4": 27,
+			"round5": 28,
+			"round6": 35,
+			"bonus": 21
+		},
+		{
+			"episode": 242,
+			"round1": 4,
+			"round2": 19,
+			"round3": 20,
+			"round4": 21,
+			"round5": 32,
+			"round6": 34,
+			"bonus": 43
+		},
+		{
+			"episode": 243,
+			"round1": 2,
+			"round2": 12,
+			"round3": 17,
+			"round4": 19,
+			"round5": 28,
+			"round6": 42,
+			"bonus": 34
+		},
+		{
+			"episode": 244,
+			"round1": 13,
+			"round2": 16,
+			"round3": 25,
+			"round4": 36,
+			"round5": 37,
+			"round6": 38,
+			"bonus": 19
+		},
+		{
+			"episode": 245,
+			"round1": 9,
+			"round2": 11,
+			"round3": 27,
+			"round4": 31,
+			"round5": 32,
+			"round6": 38,
+			"bonus": 22
+		},
+		{
+			"episode": 246,
+			"round1": 13,
+			"round2": 18,
+			"round3": 21,
+			"round4": 23,
+			"round5": 26,
+			"round6": 39,
+			"bonus": 15
+		},
+		{
+			"episode": 247,
+			"round1": 12,
+			"round2": 15,
+			"round3": 28,
+			"round4": 36,
+			"round5": 39,
+			"round6": 40,
+			"bonus": 13
+		},
+		{
+			"episode": 248,
+			"round1": 3,
+			"round2": 8,
+			"round3": 17,
+			"round4": 23,
+			"round5": 38,
+			"round6": 45,
+			"bonus": 13
+		},
+		{
+			"episode": 249,
+			"round1": 3,
+			"round2": 8,
+			"round3": 27,
+			"round4": 31,
+			"round5": 41,
+			"round6": 44,
+			"bonus": 11
+		},
+		{
+			"episode": 250,
+			"round1": 19,
+			"round2": 23,
+			"round3": 30,
+			"round4": 37,
+			"round5": 43,
+			"round6": 45,
+			"bonus": 38
+		},
+		{
+			"episode": 251,
+			"round1": 6,
+			"round2": 7,
+			"round3": 19,
+			"round4": 25,
+			"round5": 28,
+			"round6": 38,
+			"bonus": 45
+		},
+		{
+			"episode": 252,
+			"round1": 14,
+			"round2": 23,
+			"round3": 26,
+			"round4": 31,
+			"round5": 39,
+			"round6": 45,
+			"bonus": 28
+		},
+		{
+			"episode": 253,
+			"round1": 8,
+			"round2": 19,
+			"round3": 25,
+			"round4": 31,
+			"round5": 34,
+			"round6": 36,
+			"bonus": 33
+		},
+		{
+			"episode": 254,
+			"round1": 1,
+			"round2": 5,
+			"round3": 19,
+			"round4": 20,
+			"round5": 24,
+			"round6": 30,
+			"bonus": 27
+		},
+		{
+			"episode": 255,
+			"round1": 1,
+			"round2": 5,
+			"round3": 6,
+			"round4": 24,
+			"round5": 27,
+			"round6": 42,
+			"bonus": 32
+		},
+		{
+			"episode": 256,
+			"round1": 4,
+			"round2": 11,
+			"round3": 14,
+			"round4": 21,
+			"round5": 23,
+			"round6": 43,
+			"bonus": 32
+		},
+		{
+			"episode": 257,
+			"round1": 6,
+			"round2": 13,
+			"round3": 27,
+			"round4": 31,
+			"round5": 32,
+			"round6": 37,
+			"bonus": 4
+		},
+		{
+			"episode": 258,
+			"round1": 14,
+			"round2": 27,
+			"round3": 30,
+			"round4": 31,
+			"round5": 38,
+			"round6": 40,
+			"bonus": 17
+		},
+		{
+			"episode": 259,
+			"round1": 4,
+			"round2": 5,
+			"round3": 14,
+			"round4": 35,
+			"round5": 42,
+			"round6": 45,
+			"bonus": 34
+		},
+		{
+			"episode": 260,
+			"round1": 7,
+			"round2": 12,
+			"round3": 15,
+			"round4": 24,
+			"round5": 37,
+			"round6": 40,
+			"bonus": 43
+		},
+		{
+			"episode": 261,
+			"round1": 6,
+			"round2": 11,
+			"round3": 16,
+			"round4": 18,
+			"round5": 31,
+			"round6": 43,
+			"bonus": 2
+		},
+		{
+			"episode": 262,
+			"round1": 9,
+			"round2": 12,
+			"round3": 24,
+			"round4": 25,
+			"round5": 29,
+			"round6": 31,
+			"bonus": 36
+		},
+		{
+			"episode": 263,
+			"round1": 1,
+			"round2": 27,
+			"round3": 28,
+			"round4": 32,
+			"round5": 37,
+			"round6": 40,
+			"bonus": 18
+		},
+		{
+			"episode": 264,
+			"round1": 9,
+			"round2": 16,
+			"round3": 27,
+			"round4": 36,
+			"round5": 41,
+			"round6": 44,
+			"bonus": 5
+		},
+		{
+			"episode": 265,
+			"round1": 5,
+			"round2": 9,
+			"round3": 34,
+			"round4": 37,
+			"round5": 38,
+			"round6": 39,
+			"bonus": 12
+		},
+		{
+			"episode": 266,
+			"round1": 3,
+			"round2": 4,
+			"round3": 9,
+			"round4": 11,
+			"round5": 22,
+			"round6": 42,
+			"bonus": 37
+		},
+		{
+			"episode": 267,
+			"round1": 7,
+			"round2": 8,
+			"round3": 24,
+			"round4": 34,
+			"round5": 36,
+			"round6": 41,
+			"bonus": 1
+		},
+		{
+			"episode": 268,
+			"round1": 3,
+			"round2": 10,
+			"round3": 19,
+			"round4": 24,
+			"round5": 32,
+			"round6": 45,
+			"bonus": 12
+		},
+		{
+			"episode": 269,
+			"round1": 5,
+			"round2": 18,
+			"round3": 20,
+			"round4": 36,
+			"round5": 42,
+			"round6": 43,
+			"bonus": 32
+		},
+		{
+			"episode": 270,
+			"round1": 5,
+			"round2": 9,
+			"round3": 12,
+			"round4": 20,
+			"round5": 21,
+			"round6": 26,
+			"bonus": 27
+		},
+		{
+			"episode": 271,
+			"round1": 3,
+			"round2": 8,
+			"round3": 9,
+			"round4": 27,
+			"round5": 29,
+			"round6": 40,
+			"bonus": 36
+		},
+		{
+			"episode": 272,
+			"round1": 7,
+			"round2": 9,
+			"round3": 12,
+			"round4": 27,
+			"round5": 39,
+			"round6": 43,
+			"bonus": 28
+		},
+		{
+			"episode": 273,
+			"round1": 1,
+			"round2": 8,
+			"round3": 24,
+			"round4": 31,
+			"round5": 34,
+			"round6": 44,
+			"bonus": 6
+		},
+		{
+			"episode": 274,
+			"round1": 13,
+			"round2": 14,
+			"round3": 15,
+			"round4": 26,
+			"round5": 35,
+			"round6": 39,
+			"bonus": 25
+		},
+		{
+			"episode": 275,
+			"round1": 14,
+			"round2": 19,
+			"round3": 20,
+			"round4": 35,
+			"round5": 38,
+			"round6": 40,
+			"bonus": 26
+		},
+		{
+			"episode": 276,
+			"round1": 4,
+			"round2": 15,
+			"round3": 21,
+			"round4": 33,
+			"round5": 39,
+			"round6": 41,
+			"bonus": 25
+		},
+		{
+			"episode": 277,
+			"round1": 10,
+			"round2": 12,
+			"round3": 13,
+			"round4": 15,
+			"round5": 25,
+			"round6": 29,
+			"bonus": 20
+		},
+		{
+			"episode": 278,
+			"round1": 3,
+			"round2": 11,
+			"round3": 37,
+			"round4": 39,
+			"round5": 41,
+			"round6": 43,
+			"bonus": 13
+		},
+		{
+			"episode": 279,
+			"round1": 7,
+			"round2": 16,
+			"round3": 31,
+			"round4": 36,
+			"round5": 37,
+			"round6": 38,
+			"bonus": 11
+		},
+		{
+			"episode": 280,
+			"round1": 10,
+			"round2": 11,
+			"round3": 23,
+			"round4": 24,
+			"round5": 36,
+			"round6": 37,
+			"bonus": 35
+		},
+		{
+			"episode": 281,
+			"round1": 1,
+			"round2": 3,
+			"round3": 4,
+			"round4": 6,
+			"round5": 14,
+			"round6": 41,
+			"bonus": 12
+		},
+		{
+			"episode": 282,
+			"round1": 2,
+			"round2": 5,
+			"round3": 10,
+			"round4": 18,
+			"round5": 31,
+			"round6": 32,
+			"bonus": 30
+		},
+		{
+			"episode": 283,
+			"round1": 6,
+			"round2": 8,
+			"round3": 18,
+			"round4": 31,
+			"round5": 38,
+			"round6": 45,
+			"bonus": 42
+		},
+		{
+			"episode": 284,
+			"round1": 2,
+			"round2": 7,
+			"round3": 15,
+			"round4": 24,
+			"round5": 30,
+			"round6": 45,
+			"bonus": 28
+		},
+		{
+			"episode": 285,
+			"round1": 13,
+			"round2": 33,
+			"round3": 37,
+			"round4": 40,
+			"round5": 41,
+			"round6": 45,
+			"bonus": 2
+		},
+		{
+			"episode": 286,
+			"round1": 1,
+			"round2": 15,
+			"round3": 19,
+			"round4": 40,
+			"round5": 42,
+			"round6": 44,
+			"bonus": 17
+		},
+		{
+			"episode": 287,
+			"round1": 6,
+			"round2": 12,
+			"round3": 24,
+			"round4": 27,
+			"round5": 35,
+			"round6": 37,
+			"bonus": 41
+		},
+		{
+			"episode": 288,
+			"round1": 1,
+			"round2": 12,
+			"round3": 17,
+			"round4": 28,
+			"round5": 35,
+			"round6": 41,
+			"bonus": 10
+		},
+		{
+			"episode": 289,
+			"round1": 3,
+			"round2": 14,
+			"round3": 33,
+			"round4": 37,
+			"round5": 38,
+			"round6": 42,
+			"bonus": 10
+		},
+		{
+			"episode": 290,
+			"round1": 8,
+			"round2": 13,
+			"round3": 18,
+			"round4": 32,
+			"round5": 39,
+			"round6": 45,
+			"bonus": 7
+		},
+		{
+			"episode": 291,
+			"round1": 3,
+			"round2": 7,
+			"round3": 8,
+			"round4": 18,
+			"round5": 20,
+			"round6": 42,
+			"bonus": 45
+		},
+		{
+			"episode": 292,
+			"round1": 17,
+			"round2": 18,
+			"round3": 31,
+			"round4": 32,
+			"round5": 33,
+			"round6": 34,
+			"bonus": 10
+		},
+		{
+			"episode": 293,
+			"round1": 1,
+			"round2": 9,
+			"round3": 17,
+			"round4": 21,
+			"round5": 29,
+			"round6": 33,
+			"bonus": 24
+		},
+		{
+			"episode": 294,
+			"round1": 6,
+			"round2": 10,
+			"round3": 17,
+			"round4": 30,
+			"round5": 37,
+			"round6": 38,
+			"bonus": 40
+		},
+		{
+			"episode": 295,
+			"round1": 1,
+			"round2": 4,
+			"round3": 12,
+			"round4": 16,
+			"round5": 18,
+			"round6": 38,
+			"bonus": 8
+		},
+		{
+			"episode": 296,
+			"round1": 3,
+			"round2": 8,
+			"round3": 15,
+			"round4": 27,
+			"round5": 30,
+			"round6": 45,
+			"bonus": 44
+		},
+		{
+			"episode": 297,
+			"round1": 6,
+			"round2": 11,
+			"round3": 19,
+			"round4": 20,
+			"round5": 28,
+			"round6": 32,
+			"bonus": 34
+		},
+		{
+			"episode": 298,
+			"round1": 5,
+			"round2": 9,
+			"round3": 27,
+			"round4": 29,
+			"round5": 37,
+			"round6": 40,
+			"bonus": 19
+		},
+		{
+			"episode": 299,
+			"round1": 1,
+			"round2": 3,
+			"round3": 20,
+			"round4": 25,
+			"round5": 36,
+			"round6": 45,
+			"bonus": 24
+		},
+		{
+			"episode": 300,
+			"round1": 7,
+			"round2": 9,
+			"round3": 10,
+			"round4": 12,
+			"round5": 26,
+			"round6": 38,
+			"bonus": 39
+		},
+		{
+			"episode": 301,
+			"round1": 7,
+			"round2": 11,
+			"round3": 13,
+			"round4": 33,
+			"round5": 37,
+			"round6": 43,
+			"bonus": 26
+		},
+		{
+			"episode": 302,
+			"round1": 13,
+			"round2": 19,
+			"round3": 20,
+			"round4": 32,
+			"round5": 38,
+			"round6": 42,
+			"bonus": 4
+		},
+		{
+			"episode": 303,
+			"round1": 2,
+			"round2": 14,
+			"round3": 17,
+			"round4": 30,
+			"round5": 38,
+			"round6": 45,
+			"bonus": 43
+		},
+		{
+			"episode": 304,
+			"round1": 4,
+			"round2": 10,
+			"round3": 16,
+			"round4": 26,
+			"round5": 33,
+			"round6": 41,
+			"bonus": 38
+		},
+		{
+			"episode": 305,
+			"round1": 7,
+			"round2": 8,
+			"round3": 18,
+			"round4": 21,
+			"round5": 23,
+			"round6": 39,
+			"bonus": 9
+		},
+		{
+			"episode": 306,
+			"round1": 4,
+			"round2": 18,
+			"round3": 23,
+			"round4": 30,
+			"round5": 34,
+			"round6": 41,
+			"bonus": 19
+		},
+		{
+			"episode": 307,
+			"round1": 5,
+			"round2": 15,
+			"round3": 21,
+			"round4": 23,
+			"round5": 25,
+			"round6": 45,
+			"bonus": 12
+		},
+		{
+			"episode": 308,
+			"round1": 14,
+			"round2": 15,
+			"round3": 17,
+			"round4": 19,
+			"round5": 37,
+			"round6": 45,
+			"bonus": 40
+		},
+		{
+			"episode": 309,
+			"round1": 1,
+			"round2": 2,
+			"round3": 5,
+			"round4": 11,
+			"round5": 18,
+			"round6": 36,
+			"bonus": 22
+		},
+		{
+			"episode": 310,
+			"round1": 1,
+			"round2": 5,
+			"round3": 19,
+			"round4": 28,
+			"round5": 34,
+			"round6": 41,
+			"bonus": 16
+		},
+		{
+			"episode": 311,
+			"round1": 4,
+			"round2": 12,
+			"round3": 24,
+			"round4": 27,
+			"round5": 28,
+			"round6": 32,
+			"bonus": 10
+		},
+		{
+			"episode": 312,
+			"round1": 2,
+			"round2": 3,
+			"round3": 5,
+			"round4": 6,
+			"round5": 12,
+			"round6": 20,
+			"bonus": 25
+		},
+		{
+			"episode": 313,
+			"round1": 9,
+			"round2": 17,
+			"round3": 34,
+			"round4": 35,
+			"round5": 43,
+			"round6": 45,
+			"bonus": 2
+		},
+		{
+			"episode": 314,
+			"round1": 15,
+			"round2": 17,
+			"round3": 19,
+			"round4": 34,
+			"round5": 38,
+			"round6": 41,
+			"bonus": 2
+		},
+		{
+			"episode": 315,
+			"round1": 1,
+			"round2": 13,
+			"round3": 33,
+			"round4": 35,
+			"round5": 43,
+			"round6": 45,
+			"bonus": 23
+		},
+		{
+			"episode": 316,
+			"round1": 10,
+			"round2": 11,
+			"round3": 21,
+			"round4": 27,
+			"round5": 31,
+			"round6": 39,
+			"bonus": 43
+		},
+		{
+			"episode": 317,
+			"round1": 3,
+			"round2": 10,
+			"round3": 11,
+			"round4": 22,
+			"round5": 36,
+			"round6": 39,
+			"bonus": 8
+		},
+		{
+			"episode": 318,
+			"round1": 2,
+			"round2": 17,
+			"round3": 19,
+			"round4": 20,
+			"round5": 34,
+			"round6": 45,
+			"bonus": 21
+		},
+		{
+			"episode": 319,
+			"round1": 5,
+			"round2": 8,
+			"round3": 22,
+			"round4": 28,
+			"round5": 33,
+			"round6": 42,
+			"bonus": 37
+		},
+		{
+			"episode": 320,
+			"round1": 16,
+			"round2": 19,
+			"round3": 23,
+			"round4": 25,
+			"round5": 41,
+			"round6": 45,
+			"bonus": 3
+		},
+		{
+			"episode": 321,
+			"round1": 12,
+			"round2": 18,
+			"round3": 20,
+			"round4": 21,
+			"round5": 25,
+			"round6": 34,
+			"bonus": 42
+		},
+		{
+			"episode": 322,
+			"round1": 9,
+			"round2": 18,
+			"round3": 29,
+			"round4": 32,
+			"round5": 38,
+			"round6": 43,
+			"bonus": 20
+		},
+		{
+			"episode": 323,
+			"round1": 10,
+			"round2": 14,
+			"round3": 15,
+			"round4": 32,
+			"round5": 36,
+			"round6": 42,
+			"bonus": 3
+		},
+		{
+			"episode": 324,
+			"round1": 2,
+			"round2": 4,
+			"round3": 21,
+			"round4": 25,
+			"round5": 33,
+			"round6": 36,
+			"bonus": 17
+		},
+		{
+			"episode": 325,
+			"round1": 7,
+			"round2": 17,
+			"round3": 20,
+			"round4": 32,
+			"round5": 44,
+			"round6": 45,
+			"bonus": 33
+		},
+		{
+			"episode": 326,
+			"round1": 16,
+			"round2": 23,
+			"round3": 25,
+			"round4": 33,
+			"round5": 36,
+			"round6": 39,
+			"bonus": 40
+		},
+		{
+			"episode": 327,
+			"round1": 6,
+			"round2": 12,
+			"round3": 13,
+			"round4": 17,
+			"round5": 32,
+			"round6": 44,
+			"bonus": 24
+		},
+		{
+			"episode": 328,
+			"round1": 1,
+			"round2": 6,
+			"round3": 9,
+			"round4": 16,
+			"round5": 17,
+			"round6": 28,
+			"bonus": 24
+		},
+		{
+			"episode": 329,
+			"round1": 9,
+			"round2": 17,
+			"round3": 19,
+			"round4": 30,
+			"round5": 35,
+			"round6": 42,
+			"bonus": 4
+		},
+		{
+			"episode": 330,
+			"round1": 3,
+			"round2": 4,
+			"round3": 16,
+			"round4": 17,
+			"round5": 19,
+			"round6": 20,
+			"bonus": 23
+		},
+		{
+			"episode": 331,
+			"round1": 4,
+			"round2": 9,
+			"round3": 14,
+			"round4": 26,
+			"round5": 31,
+			"round6": 44,
+			"bonus": 39
+		},
+		{
+			"episode": 332,
+			"round1": 16,
+			"round2": 17,
+			"round3": 34,
+			"round4": 36,
+			"round5": 42,
+			"round6": 45,
+			"bonus": 3
+		},
+		{
+			"episode": 333,
+			"round1": 5,
+			"round2": 14,
+			"round3": 27,
+			"round4": 30,
+			"round5": 39,
+			"round6": 43,
+			"bonus": 35
+		},
+		{
+			"episode": 334,
+			"round1": 13,
+			"round2": 15,
+			"round3": 21,
+			"round4": 29,
+			"round5": 39,
+			"round6": 43,
+			"bonus": 33
+		},
+		{
+			"episode": 335,
+			"round1": 5,
+			"round2": 9,
+			"round3": 16,
+			"round4": 23,
+			"round5": 26,
+			"round6": 45,
+			"bonus": 21
+		},
+		{
+			"episode": 336,
+			"round1": 3,
+			"round2": 5,
+			"round3": 20,
+			"round4": 34,
+			"round5": 35,
+			"round6": 44,
+			"bonus": 16
+		},
+		{
+			"episode": 337,
+			"round1": 1,
+			"round2": 5,
+			"round3": 14,
+			"round4": 18,
+			"round5": 32,
+			"round6": 37,
+			"bonus": 4
+		},
+		{
+			"episode": 338,
+			"round1": 2,
+			"round2": 13,
+			"round3": 34,
+			"round4": 38,
+			"round5": 42,
+			"round6": 45,
+			"bonus": 16
+		},
+		{
+			"episode": 339,
+			"round1": 6,
+			"round2": 8,
+			"round3": 14,
+			"round4": 21,
+			"round5": 30,
+			"round6": 37,
+			"bonus": 45
+		},
+		{
+			"episode": 340,
+			"round1": 18,
+			"round2": 24,
+			"round3": 26,
+			"round4": 29,
+			"round5": 34,
+			"round6": 38,
+			"bonus": 32
+		},
+		{
+			"episode": 341,
+			"round1": 1,
+			"round2": 8,
+			"round3": 19,
+			"round4": 34,
+			"round5": 39,
+			"round6": 43,
+			"bonus": 41
+		},
+		{
+			"episode": 342,
+			"round1": 1,
+			"round2": 13,
+			"round3": 14,
+			"round4": 33,
+			"round5": 34,
+			"round6": 43,
+			"bonus": 25
+		},
+		{
+			"episode": 343,
+			"round1": 1,
+			"round2": 10,
+			"round3": 17,
+			"round4": 29,
+			"round5": 31,
+			"round6": 43,
+			"bonus": 15
+		},
+		{
+			"episode": 344,
+			"round1": 1,
+			"round2": 2,
+			"round3": 15,
+			"round4": 28,
+			"round5": 34,
+			"round6": 45,
+			"bonus": 38
+		},
+		{
+			"episode": 345,
+			"round1": 15,
+			"round2": 20,
+			"round3": 23,
+			"round4": 29,
+			"round5": 39,
+			"round6": 42,
+			"bonus": 2
+		},
+		{
+			"episode": 346,
+			"round1": 5,
+			"round2": 13,
+			"round3": 14,
+			"round4": 22,
+			"round5": 44,
+			"round6": 45,
+			"bonus": 33
+		},
+		{
+			"episode": 347,
+			"round1": 3,
+			"round2": 8,
+			"round3": 13,
+			"round4": 27,
+			"round5": 32,
+			"round6": 42,
+			"bonus": 10
+		},
+		{
+			"episode": 348,
+			"round1": 3,
+			"round2": 14,
+			"round3": 17,
+			"round4": 20,
+			"round5": 24,
+			"round6": 31,
+			"bonus": 34
+		},
+		{
+			"episode": 349,
+			"round1": 5,
+			"round2": 13,
+			"round3": 14,
+			"round4": 20,
+			"round5": 24,
+			"round6": 25,
+			"bonus": 36
+		},
+		{
+			"episode": 350,
+			"round1": 1,
+			"round2": 8,
+			"round3": 18,
+			"round4": 24,
+			"round5": 29,
+			"round6": 33,
+			"bonus": 35
+		},
+		{
+			"episode": 351,
+			"round1": 5,
+			"round2": 25,
+			"round3": 27,
+			"round4": 29,
+			"round5": 34,
+			"round6": 36,
+			"bonus": 33
+		},
+		{
+			"episode": 352,
+			"round1": 5,
+			"round2": 16,
+			"round3": 17,
+			"round4": 20,
+			"round5": 26,
+			"round6": 41,
+			"bonus": 24
+		},
+		{
+			"episode": 353,
+			"round1": 11,
+			"round2": 16,
+			"round3": 19,
+			"round4": 22,
+			"round5": 29,
+			"round6": 36,
+			"bonus": 26
+		},
+		{
+			"episode": 354,
+			"round1": 14,
+			"round2": 19,
+			"round3": 36,
+			"round4": 43,
+			"round5": 44,
+			"round6": 45,
+			"bonus": 1
+		},
+		{
+			"episode": 355,
+			"round1": 5,
+			"round2": 8,
+			"round3": 29,
+			"round4": 30,
+			"round5": 35,
+			"round6": 44,
+			"bonus": 38
+		},
+		{
+			"episode": 356,
+			"round1": 2,
+			"round2": 8,
+			"round3": 14,
+			"round4": 25,
+			"round5": 29,
+			"round6": 45,
+			"bonus": 24
+		},
+		{
+			"episode": 357,
+			"round1": 10,
+			"round2": 14,
+			"round3": 18,
+			"round4": 21,
+			"round5": 36,
+			"round6": 37,
+			"bonus": 5
+		},
+		{
+			"episode": 358,
+			"round1": 1,
+			"round2": 9,
+			"round3": 10,
+			"round4": 12,
+			"round5": 21,
+			"round6": 40,
+			"bonus": 37
+		},
+		{
+			"episode": 359,
+			"round1": 1,
+			"round2": 10,
+			"round3": 19,
+			"round4": 20,
+			"round5": 24,
+			"round6": 40,
+			"bonus": 23
+		},
+		{
+			"episode": 360,
+			"round1": 4,
+			"round2": 16,
+			"round3": 23,
+			"round4": 25,
+			"round5": 35,
+			"round6": 40,
+			"bonus": 27
+		},
+		{
+			"episode": 361,
+			"round1": 5,
+			"round2": 10,
+			"round3": 16,
+			"round4": 24,
+			"round5": 27,
+			"round6": 35,
+			"bonus": 33
+		},
+		{
+			"episode": 362,
+			"round1": 2,
+			"round2": 3,
+			"round3": 22,
+			"round4": 27,
+			"round5": 30,
+			"round6": 40,
+			"bonus": 29
+		},
+		{
+			"episode": 363,
+			"round1": 11,
+			"round2": 12,
+			"round3": 14,
+			"round4": 21,
+			"round5": 32,
+			"round6": 38,
+			"bonus": 6
+		},
+		{
+			"episode": 364,
+			"round1": 2,
+			"round2": 5,
+			"round3": 7,
+			"round4": 14,
+			"round5": 16,
+			"round6": 40,
+			"bonus": 4
+		},
+		{
+			"episode": 365,
+			"round1": 5,
+			"round2": 15,
+			"round3": 21,
+			"round4": 25,
+			"round5": 26,
+			"round6": 30,
+			"bonus": 31
+		},
+		{
+			"episode": 366,
+			"round1": 5,
+			"round2": 12,
+			"round3": 19,
+			"round4": 26,
+			"round5": 27,
+			"round6": 44,
+			"bonus": 38
+		},
+		{
+			"episode": 367,
+			"round1": 3,
+			"round2": 22,
+			"round3": 25,
+			"round4": 29,
+			"round5": 32,
+			"round6": 44,
+			"bonus": 19
+		},
+		{
+			"episode": 368,
+			"round1": 11,
+			"round2": 21,
+			"round3": 24,
+			"round4": 30,
+			"round5": 39,
+			"round6": 45,
+			"bonus": 26
+		},
+		{
+			"episode": 369,
+			"round1": 17,
+			"round2": 20,
+			"round3": 35,
+			"round4": 36,
+			"round5": 41,
+			"round6": 43,
+			"bonus": 21
+		},
+		{
+			"episode": 370,
+			"round1": 16,
+			"round2": 18,
+			"round3": 24,
+			"round4": 42,
+			"round5": 44,
+			"round6": 45,
+			"bonus": 17
+		},
+		{
+			"episode": 371,
+			"round1": 7,
+			"round2": 9,
+			"round3": 15,
+			"round4": 26,
+			"round5": 27,
+			"round6": 42,
+			"bonus": 18
+		},
+		{
+			"episode": 372,
+			"round1": 8,
+			"round2": 11,
+			"round3": 14,
+			"round4": 16,
+			"round5": 18,
+			"round6": 21,
+			"bonus": 13
+		},
+		{
+			"episode": 373,
+			"round1": 15,
+			"round2": 26,
+			"round3": 37,
+			"round4": 42,
+			"round5": 43,
+			"round6": 45,
+			"bonus": 9
+		},
+		{
+			"episode": 374,
+			"round1": 11,
+			"round2": 13,
+			"round3": 15,
+			"round4": 17,
+			"round5": 25,
+			"round6": 34,
+			"bonus": 26
+		},
+		{
+			"episode": 375,
+			"round1": 4,
+			"round2": 8,
+			"round3": 19,
+			"round4": 25,
+			"round5": 27,
+			"round6": 45,
+			"bonus": 7
+		},
+		{
+			"episode": 376,
+			"round1": 1,
+			"round2": 11,
+			"round3": 13,
+			"round4": 24,
+			"round5": 28,
+			"round6": 40,
+			"bonus": 7
+		},
+		{
+			"episode": 377,
+			"round1": 6,
+			"round2": 22,
+			"round3": 29,
+			"round4": 37,
+			"round5": 43,
+			"round6": 45,
+			"bonus": 23
+		},
+		{
+			"episode": 378,
+			"round1": 5,
+			"round2": 22,
+			"round3": 29,
+			"round4": 31,
+			"round5": 34,
+			"round6": 39,
+			"bonus": 43
+		},
+		{
+			"episode": 379,
+			"round1": 6,
+			"round2": 10,
+			"round3": 22,
+			"round4": 31,
+			"round5": 35,
+			"round6": 40,
+			"bonus": 19
+		},
+		{
+			"episode": 380,
+			"round1": 1,
+			"round2": 2,
+			"round3": 8,
+			"round4": 17,
+			"round5": 26,
+			"round6": 37,
+			"bonus": 27
+		},
+		{
+			"episode": 381,
+			"round1": 1,
+			"round2": 5,
+			"round3": 10,
+			"round4": 12,
+			"round5": 16,
+			"round6": 20,
+			"bonus": 11
+		},
+		{
+			"episode": 382,
+			"round1": 10,
+			"round2": 15,
+			"round3": 22,
+			"round4": 24,
+			"round5": 27,
+			"round6": 42,
+			"bonus": 19
+		},
+		{
+			"episode": 383,
+			"round1": 4,
+			"round2": 15,
+			"round3": 28,
+			"round4": 33,
+			"round5": 37,
+			"round6": 40,
+			"bonus": 25
+		},
+		{
+			"episode": 384,
+			"round1": 11,
+			"round2": 22,
+			"round3": 24,
+			"round4": 32,
+			"round5": 36,
+			"round6": 38,
+			"bonus": 7
+		},
+		{
+			"episode": 385,
+			"round1": 7,
+			"round2": 12,
+			"round3": 19,
+			"round4": 21,
+			"round5": 29,
+			"round6": 32,
+			"bonus": 9
+		},
+		{
+			"episode": 386,
+			"round1": 4,
+			"round2": 7,
+			"round3": 10,
+			"round4": 19,
+			"round5": 31,
+			"round6": 40,
+			"bonus": 26
+		},
+		{
+			"episode": 387,
+			"round1": 1,
+			"round2": 26,
+			"round3": 31,
+			"round4": 34,
+			"round5": 40,
+			"round6": 43,
+			"bonus": 20
+		},
+		{
+			"episode": 388,
+			"round1": 1,
+			"round2": 8,
+			"round3": 9,
+			"round4": 17,
+			"round5": 29,
+			"round6": 32,
+			"bonus": 45
+		},
+		{
+			"episode": 389,
+			"round1": 7,
+			"round2": 16,
+			"round3": 18,
+			"round4": 20,
+			"round5": 23,
+			"round6": 26,
+			"bonus": 3
+		},
+		{
+			"episode": 390,
+			"round1": 16,
+			"round2": 17,
+			"round3": 28,
+			"round4": 37,
+			"round5": 39,
+			"round6": 40,
+			"bonus": 15
+		},
+		{
+			"episode": 391,
+			"round1": 10,
+			"round2": 11,
+			"round3": 18,
+			"round4": 22,
+			"round5": 28,
+			"round6": 39,
+			"bonus": 30
+		},
+		{
+			"episode": 392,
+			"round1": 1,
+			"round2": 3,
+			"round3": 7,
+			"round4": 8,
+			"round5": 24,
+			"round6": 42,
+			"bonus": 43
+		},
+		{
+			"episode": 393,
+			"round1": 9,
+			"round2": 16,
+			"round3": 28,
+			"round4": 40,
+			"round5": 41,
+			"round6": 43,
+			"bonus": 21
+		},
+		{
+			"episode": 394,
+			"round1": 1,
+			"round2": 13,
+			"round3": 20,
+			"round4": 22,
+			"round5": 25,
+			"round6": 28,
+			"bonus": 15
+		},
+		{
+			"episode": 395,
+			"round1": 11,
+			"round2": 15,
+			"round3": 20,
+			"round4": 26,
+			"round5": 31,
+			"round6": 35,
+			"bonus": 7
+		},
+		{
+			"episode": 396,
+			"round1": 18,
+			"round2": 20,
+			"round3": 31,
+			"round4": 34,
+			"round5": 40,
+			"round6": 45,
+			"bonus": 30
+		},
+		{
+			"episode": 397,
+			"round1": 12,
+			"round2": 13,
+			"round3": 17,
+			"round4": 22,
+			"round5": 25,
+			"round6": 33,
+			"bonus": 8
+		},
+		{
+			"episode": 398,
+			"round1": 10,
+			"round2": 15,
+			"round3": 20,
+			"round4": 23,
+			"round5": 42,
+			"round6": 44,
+			"bonus": 7
+		},
+		{
+			"episode": 399,
+			"round1": 1,
+			"round2": 2,
+			"round3": 9,
+			"round4": 17,
+			"round5": 19,
+			"round6": 42,
+			"bonus": 20
+		},
+		{
+			"episode": 400,
+			"round1": 9,
+			"round2": 21,
+			"round3": 27,
+			"round4": 34,
+			"round5": 41,
+			"round6": 43,
+			"bonus": 2
+		},
+		{
+			"episode": 401,
+			"round1": 6,
+			"round2": 12,
+			"round3": 18,
+			"round4": 31,
+			"round5": 38,
+			"round6": 43,
+			"bonus": 9
+		},
+		{
+			"episode": 402,
+			"round1": 5,
+			"round2": 9,
+			"round3": 15,
+			"round4": 19,
+			"round5": 22,
+			"round6": 36,
+			"bonus": 32
+		},
+		{
+			"episode": 403,
+			"round1": 10,
+			"round2": 14,
+			"round3": 22,
+			"round4": 24,
+			"round5": 28,
+			"round6": 37,
+			"bonus": 26
+		},
+		{
+			"episode": 404,
+			"round1": 5,
+			"round2": 20,
+			"round3": 21,
+			"round4": 24,
+			"round5": 33,
+			"round6": 40,
+			"bonus": 36
+		},
+		{
+			"episode": 405,
+			"round1": 1,
+			"round2": 2,
+			"round3": 10,
+			"round4": 25,
+			"round5": 26,
+			"round6": 44,
+			"bonus": 4
+		},
+		{
+			"episode": 406,
+			"round1": 7,
+			"round2": 12,
+			"round3": 21,
+			"round4": 24,
+			"round5": 27,
+			"round6": 36,
+			"bonus": 45
+		},
+		{
+			"episode": 407,
+			"round1": 6,
+			"round2": 7,
+			"round3": 13,
+			"round4": 16,
+			"round5": 24,
+			"round6": 25,
+			"bonus": 1
+		},
+		{
+			"episode": 408,
+			"round1": 9,
+			"round2": 20,
+			"round3": 21,
+			"round4": 22,
+			"round5": 30,
+			"round6": 37,
+			"bonus": 16
+		},
+		{
+			"episode": 409,
+			"round1": 6,
+			"round2": 9,
+			"round3": 21,
+			"round4": 31,
+			"round5": 32,
+			"round6": 40,
+			"bonus": 38
+		},
+		{
+			"episode": 410,
+			"round1": 1,
+			"round2": 3,
+			"round3": 18,
+			"round4": 32,
+			"round5": 40,
+			"round6": 41,
+			"bonus": 16
+		},
+		{
+			"episode": 411,
+			"round1": 11,
+			"round2": 14,
+			"round3": 22,
+			"round4": 35,
+			"round5": 37,
+			"round6": 39,
+			"bonus": 5
+		},
+		{
+			"episode": 412,
+			"round1": 4,
+			"round2": 7,
+			"round3": 39,
+			"round4": 41,
+			"round5": 42,
+			"round6": 45,
+			"bonus": 40
+		},
+		{
+			"episode": 413,
+			"round1": 2,
+			"round2": 9,
+			"round3": 15,
+			"round4": 23,
+			"round5": 34,
+			"round6": 40,
+			"bonus": 3
+		},
+		{
+			"episode": 414,
+			"round1": 2,
+			"round2": 14,
+			"round3": 15,
+			"round4": 22,
+			"round5": 23,
+			"round6": 44,
+			"bonus": 43
+		},
+		{
+			"episode": 415,
+			"round1": 7,
+			"round2": 17,
+			"round3": 20,
+			"round4": 26,
+			"round5": 30,
+			"round6": 40,
+			"bonus": 24
+		},
+		{
+			"episode": 416,
+			"round1": 5,
+			"round2": 6,
+			"round3": 8,
+			"round4": 11,
+			"round5": 22,
+			"round6": 26,
+			"bonus": 44
+		},
+		{
+			"episode": 417,
+			"round1": 4,
+			"round2": 5,
+			"round3": 14,
+			"round4": 20,
+			"round5": 22,
+			"round6": 43,
+			"bonus": 44
+		},
+		{
+			"episode": 418,
+			"round1": 11,
+			"round2": 13,
+			"round3": 15,
+			"round4": 26,
+			"round5": 28,
+			"round6": 34,
+			"bonus": 31
+		},
+		{
+			"episode": 419,
+			"round1": 2,
+			"round2": 11,
+			"round3": 13,
+			"round4": 14,
+			"round5": 28,
+			"round6": 30,
+			"bonus": 7
+		},
+		{
+			"episode": 420,
+			"round1": 4,
+			"round2": 9,
+			"round3": 10,
+			"round4": 29,
+			"round5": 31,
+			"round6": 34,
+			"bonus": 27
+		},
+		{
+			"episode": 421,
+			"round1": 6,
+			"round2": 11,
+			"round3": 26,
+			"round4": 27,
+			"round5": 28,
+			"round6": 44,
+			"bonus": 30
+		},
+		{
+			"episode": 422,
+			"round1": 8,
+			"round2": 15,
+			"round3": 19,
+			"round4": 21,
+			"round5": 34,
+			"round6": 44,
+			"bonus": 12
+		},
+		{
+			"episode": 423,
+			"round1": 1,
+			"round2": 17,
+			"round3": 27,
+			"round4": 28,
+			"round5": 29,
+			"round6": 40,
+			"bonus": 5
+		},
+		{
+			"episode": 424,
+			"round1": 10,
+			"round2": 11,
+			"round3": 26,
+			"round4": 31,
+			"round5": 34,
+			"round6": 44,
+			"bonus": 30
+		},
+		{
+			"episode": 425,
+			"round1": 8,
+			"round2": 10,
+			"round3": 14,
+			"round4": 27,
+			"round5": 33,
+			"round6": 38,
+			"bonus": 3
+		},
+		{
+			"episode": 426,
+			"round1": 4,
+			"round2": 17,
+			"round3": 18,
+			"round4": 27,
+			"round5": 39,
+			"round6": 43,
+			"bonus": 19
+		},
+		{
+			"episode": 427,
+			"round1": 6,
+			"round2": 7,
+			"round3": 15,
+			"round4": 24,
+			"round5": 28,
+			"round6": 30,
+			"bonus": 21
+		},
+		{
+			"episode": 428,
+			"round1": 12,
+			"round2": 16,
+			"round3": 19,
+			"round4": 22,
+			"round5": 37,
+			"round6": 40,
+			"bonus": 8
+		},
+		{
+			"episode": 429,
+			"round1": 3,
+			"round2": 23,
+			"round3": 28,
+			"round4": 34,
+			"round5": 39,
+			"round6": 42,
+			"bonus": 16
+		},
+		{
+			"episode": 430,
+			"round1": 1,
+			"round2": 3,
+			"round3": 16,
+			"round4": 18,
+			"round5": 30,
+			"round6": 34,
+			"bonus": 44
+		},
+		{
+			"episode": 431,
+			"round1": 18,
+			"round2": 22,
+			"round3": 25,
+			"round4": 31,
+			"round5": 38,
+			"round6": 45,
+			"bonus": 6
+		},
+		{
+			"episode": 432,
+			"round1": 2,
+			"round2": 3,
+			"round3": 5,
+			"round4": 11,
+			"round5": 27,
+			"round6": 39,
+			"bonus": 33
+		},
+		{
+			"episode": 433,
+			"round1": 19,
+			"round2": 23,
+			"round3": 29,
+			"round4": 33,
+			"round5": 35,
+			"round6": 43,
+			"bonus": 27
+		},
+		{
+			"episode": 434,
+			"round1": 3,
+			"round2": 13,
+			"round3": 20,
+			"round4": 24,
+			"round5": 33,
+			"round6": 37,
+			"bonus": 35
+		},
+		{
+			"episode": 435,
+			"round1": 8,
+			"round2": 16,
+			"round3": 26,
+			"round4": 30,
+			"round5": 38,
+			"round6": 45,
+			"bonus": 42
+		},
+		{
+			"episode": 436,
+			"round1": 9,
+			"round2": 14,
+			"round3": 20,
+			"round4": 22,
+			"round5": 33,
+			"round6": 34,
+			"bonus": 28
+		},
+		{
+			"episode": 437,
+			"round1": 11,
+			"round2": 16,
+			"round3": 29,
+			"round4": 38,
+			"round5": 41,
+			"round6": 44,
+			"bonus": 21
+		},
+		{
+			"episode": 438,
+			"round1": 6,
+			"round2": 12,
+			"round3": 20,
+			"round4": 26,
+			"round5": 29,
+			"round6": 38,
+			"bonus": 45
+		},
+		{
+			"episode": 439,
+			"round1": 17,
+			"round2": 20,
+			"round3": 30,
+			"round4": 31,
+			"round5": 37,
+			"round6": 40,
+			"bonus": 25
+		},
+		{
+			"episode": 440,
+			"round1": 10,
+			"round2": 22,
+			"round3": 28,
+			"round4": 34,
+			"round5": 36,
+			"round6": 44,
+			"bonus": 2
+		},
+		{
+			"episode": 441,
+			"round1": 1,
+			"round2": 23,
+			"round3": 28,
+			"round4": 30,
+			"round5": 34,
+			"round6": 35,
+			"bonus": 9
+		},
+		{
+			"episode": 442,
+			"round1": 25,
+			"round2": 27,
+			"round3": 29,
+			"round4": 36,
+			"round5": 38,
+			"round6": 40,
+			"bonus": 41
+		},
+		{
+			"episode": 443,
+			"round1": 4,
+			"round2": 6,
+			"round3": 10,
+			"round4": 19,
+			"round5": 20,
+			"round6": 44,
+			"bonus": 14
+		},
+		{
+			"episode": 444,
+			"round1": 11,
+			"round2": 13,
+			"round3": 23,
+			"round4": 35,
+			"round5": 43,
+			"round6": 45,
+			"bonus": 17
+		},
+		{
+			"episode": 445,
+			"round1": 13,
+			"round2": 20,
+			"round3": 21,
+			"round4": 30,
+			"round5": 39,
+			"round6": 45,
+			"bonus": 32
+		},
+		{
+			"episode": 446,
+			"round1": 1,
+			"round2": 11,
+			"round3": 12,
+			"round4": 14,
+			"round5": 26,
+			"round6": 35,
+			"bonus": 6
+		},
+		{
+			"episode": 447,
+			"round1": 2,
+			"round2": 7,
+			"round3": 8,
+			"round4": 9,
+			"round5": 17,
+			"round6": 33,
+			"bonus": 34
+		},
+		{
+			"episode": 448,
+			"round1": 3,
+			"round2": 7,
+			"round3": 13,
+			"round4": 27,
+			"round5": 40,
+			"round6": 41,
+			"bonus": 36
+		},
+		{
+			"episode": 449,
+			"round1": 3,
+			"round2": 10,
+			"round3": 20,
+			"round4": 26,
+			"round5": 35,
+			"round6": 43,
+			"bonus": 36
+		},
+		{
+			"episode": 450,
+			"round1": 6,
+			"round2": 14,
+			"round3": 19,
+			"round4": 21,
+			"round5": 23,
+			"round6": 31,
+			"bonus": 13
+		},
+		{
+			"episode": 451,
+			"round1": 12,
+			"round2": 15,
+			"round3": 20,
+			"round4": 24,
+			"round5": 30,
+			"round6": 38,
+			"bonus": 29
+		},
+		{
+			"episode": 452,
+			"round1": 8,
+			"round2": 10,
+			"round3": 18,
+			"round4": 30,
+			"round5": 32,
+			"round6": 34,
+			"bonus": 27
+		},
+		{
+			"episode": 453,
+			"round1": 12,
+			"round2": 24,
+			"round3": 33,
+			"round4": 38,
+			"round5": 40,
+			"round6": 42,
+			"bonus": 30
+		},
+		{
+			"episode": 454,
+			"round1": 13,
+			"round2": 25,
+			"round3": 27,
+			"round4": 34,
+			"round5": 38,
+			"round6": 41,
+			"bonus": 10
+		},
+		{
+			"episode": 455,
+			"round1": 4,
+			"round2": 19,
+			"round3": 20,
+			"round4": 26,
+			"round5": 30,
+			"round6": 35,
+			"bonus": 24
+		},
+		{
+			"episode": 456,
+			"round1": 1,
+			"round2": 7,
+			"round3": 12,
+			"round4": 18,
+			"round5": 23,
+			"round6": 27,
+			"bonus": 44
+		},
+		{
+			"episode": 457,
+			"round1": 8,
+			"round2": 10,
+			"round3": 18,
+			"round4": 23,
+			"round5": 27,
+			"round6": 40,
+			"bonus": 33
+		},
+		{
+			"episode": 458,
+			"round1": 4,
+			"round2": 9,
+			"round3": 10,
+			"round4": 32,
+			"round5": 36,
+			"round6": 40,
+			"bonus": 18
+		},
+		{
+			"episode": 459,
+			"round1": 4,
+			"round2": 6,
+			"round3": 10,
+			"round4": 14,
+			"round5": 25,
+			"round6": 40,
+			"bonus": 12
+		},
+		{
+			"episode": 460,
+			"round1": 8,
+			"round2": 11,
+			"round3": 28,
+			"round4": 30,
+			"round5": 43,
+			"round6": 45,
+			"bonus": 41
+		},
+		{
+			"episode": 461,
+			"round1": 11,
+			"round2": 18,
+			"round3": 26,
+			"round4": 31,
+			"round5": 37,
+			"round6": 40,
+			"bonus": 43
+		},
+		{
+			"episode": 462,
+			"round1": 3,
+			"round2": 20,
+			"round3": 24,
+			"round4": 32,
+			"round5": 37,
+			"round6": 45,
+			"bonus": 4
+		},
+		{
+			"episode": 463,
+			"round1": 23,
+			"round2": 29,
+			"round3": 31,
+			"round4": 33,
+			"round5": 34,
+			"round6": 44,
+			"bonus": 40
+		},
+		{
+			"episode": 464,
+			"round1": 6,
+			"round2": 12,
+			"round3": 15,
+			"round4": 34,
+			"round5": 42,
+			"round6": 44,
+			"bonus": 4
+		},
+		{
+			"episode": 465,
+			"round1": 1,
+			"round2": 8,
+			"round3": 11,
+			"round4": 13,
+			"round5": 22,
+			"round6": 38,
+			"bonus": 31
+		},
+		{
+			"episode": 466,
+			"round1": 4,
+			"round2": 10,
+			"round3": 13,
+			"round4": 23,
+			"round5": 32,
+			"round6": 44,
+			"bonus": 20
+		},
+		{
+			"episode": 467,
+			"round1": 2,
+			"round2": 12,
+			"round3": 14,
+			"round4": 17,
+			"round5": 24,
+			"round6": 40,
+			"bonus": 39
+		},
+		{
+			"episode": 468,
+			"round1": 8,
+			"round2": 13,
+			"round3": 15,
+			"round4": 28,
+			"round5": 37,
+			"round6": 43,
+			"bonus": 17
+		},
+		{
+			"episode": 469,
+			"round1": 4,
+			"round2": 21,
+			"round3": 22,
+			"round4": 34,
+			"round5": 37,
+			"round6": 38,
+			"bonus": 33
+		},
+		{
+			"episode": 470,
+			"round1": 10,
+			"round2": 16,
+			"round3": 20,
+			"round4": 39,
+			"round5": 41,
+			"round6": 42,
+			"bonus": 27
+		},
+		{
+			"episode": 471,
+			"round1": 6,
+			"round2": 13,
+			"round3": 29,
+			"round4": 37,
+			"round5": 39,
+			"round6": 41,
+			"bonus": 43
+		},
+		{
+			"episode": 472,
+			"round1": 16,
+			"round2": 25,
+			"round3": 26,
+			"round4": 31,
+			"round5": 36,
+			"round6": 43,
+			"bonus": 44
+		},
+		{
+			"episode": 473,
+			"round1": 8,
+			"round2": 13,
+			"round3": 20,
+			"round4": 22,
+			"round5": 23,
+			"round6": 36,
+			"bonus": 34
+		},
+		{
+			"episode": 474,
+			"round1": 4,
+			"round2": 13,
+			"round3": 18,
+			"round4": 31,
+			"round5": 33,
+			"round6": 45,
+			"bonus": 43
+		},
+		{
+			"episode": 475,
+			"round1": 1,
+			"round2": 9,
+			"round3": 14,
+			"round4": 16,
+			"round5": 21,
+			"round6": 29,
+			"bonus": 3
+		},
+		{
+			"episode": 476,
+			"round1": 9,
+			"round2": 12,
+			"round3": 13,
+			"round4": 15,
+			"round5": 37,
+			"round6": 38,
+			"bonus": 27
+		},
+		{
+			"episode": 477,
+			"round1": 14,
+			"round2": 25,
+			"round3": 29,
+			"round4": 32,
+			"round5": 33,
+			"round6": 45,
+			"bonus": 37
+		},
+		{
+			"episode": 478,
+			"round1": 18,
+			"round2": 29,
+			"round3": 30,
+			"round4": 37,
+			"round5": 39,
+			"round6": 43,
+			"bonus": 8
+		},
+		{
+			"episode": 479,
+			"round1": 8,
+			"round2": 23,
+			"round3": 25,
+			"round4": 27,
+			"round5": 35,
+			"round6": 44,
+			"bonus": 24
+		},
+		{
+			"episode": 480,
+			"round1": 3,
+			"round2": 5,
+			"round3": 10,
+			"round4": 17,
+			"round5": 30,
+			"round6": 31,
+			"bonus": 16
+		},
+		{
+			"episode": 481,
+			"round1": 3,
+			"round2": 4,
+			"round3": 23,
+			"round4": 29,
+			"round5": 40,
+			"round6": 41,
+			"bonus": 20
+		},
+		{
+			"episode": 482,
+			"round1": 1,
+			"round2": 10,
+			"round3": 16,
+			"round4": 24,
+			"round5": 25,
+			"round6": 35,
+			"bonus": 43
+		},
+		{
+			"episode": 483,
+			"round1": 12,
+			"round2": 15,
+			"round3": 19,
+			"round4": 22,
+			"round5": 28,
+			"round6": 34,
+			"bonus": 5
+		},
+		{
+			"episode": 484,
+			"round1": 1,
+			"round2": 3,
+			"round3": 27,
+			"round4": 28,
+			"round5": 32,
+			"round6": 45,
+			"bonus": 11
+		},
+		{
+			"episode": 485,
+			"round1": 17,
+			"round2": 22,
+			"round3": 26,
+			"round4": 27,
+			"round5": 36,
+			"round6": 39,
+			"bonus": 20
+		},
+		{
+			"episode": 486,
+			"round1": 1,
+			"round2": 2,
+			"round3": 23,
+			"round4": 25,
+			"round5": 38,
+			"round6": 40,
+			"bonus": 43
+		},
+		{
+			"episode": 487,
+			"round1": 4,
+			"round2": 8,
+			"round3": 25,
+			"round4": 27,
+			"round5": 37,
+			"round6": 41,
+			"bonus": 21
+		},
+		{
+			"episode": 488,
+			"round1": 2,
+			"round2": 8,
+			"round3": 17,
+			"round4": 30,
+			"round5": 31,
+			"round6": 38,
+			"bonus": 25
+		},
+		{
+			"episode": 489,
+			"round1": 2,
+			"round2": 4,
+			"round3": 8,
+			"round4": 15,
+			"round5": 20,
+			"round6": 27,
+			"bonus": 11
+		},
+		{
+			"episode": 490,
+			"round1": 2,
+			"round2": 7,
+			"round3": 26,
+			"round4": 29,
+			"round5": 40,
+			"round6": 43,
+			"bonus": 42
+		},
+		{
+			"episode": 491,
+			"round1": 8,
+			"round2": 17,
+			"round3": 35,
+			"round4": 36,
+			"round5": 39,
+			"round6": 42,
+			"bonus": 4
+		},
+		{
+			"episode": 492,
+			"round1": 22,
+			"round2": 27,
+			"round3": 31,
+			"round4": 35,
+			"round5": 37,
+			"round6": 40,
+			"bonus": 42
+		},
+		{
+			"episode": 493,
+			"round1": 20,
+			"round2": 22,
+			"round3": 26,
+			"round4": 33,
+			"round5": 36,
+			"round6": 37,
+			"bonus": 25
+		},
+		{
+			"episode": 494,
+			"round1": 5,
+			"round2": 7,
+			"round3": 8,
+			"round4": 15,
+			"round5": 30,
+			"round6": 43,
+			"bonus": 22
+		},
+		{
+			"episode": 495,
+			"round1": 4,
+			"round2": 13,
+			"round3": 22,
+			"round4": 27,
+			"round5": 34,
+			"round6": 44,
+			"bonus": 6
+		},
+		{
+			"episode": 496,
+			"round1": 4,
+			"round2": 13,
+			"round3": 20,
+			"round4": 29,
+			"round5": 36,
+			"round6": 41,
+			"bonus": 39
+		},
+		{
+			"episode": 497,
+			"round1": 19,
+			"round2": 20,
+			"round3": 23,
+			"round4": 24,
+			"round5": 43,
+			"round6": 44,
+			"bonus": 13
+		},
+		{
+			"episode": 498,
+			"round1": 13,
+			"round2": 14,
+			"round3": 24,
+			"round4": 32,
+			"round5": 39,
+			"round6": 41,
+			"bonus": 3
+		},
+		{
+			"episode": 499,
+			"round1": 5,
+			"round2": 20,
+			"round3": 23,
+			"round4": 27,
+			"round5": 35,
+			"round6": 40,
+			"bonus": 43
+		},
+		{
+			"episode": 500,
+			"round1": 3,
+			"round2": 4,
+			"round3": 12,
+			"round4": 20,
+			"round5": 24,
+			"round6": 34,
+			"bonus": 41
+		},
+		{
+			"episode": 501,
+			"round1": 1,
+			"round2": 4,
+			"round3": 10,
+			"round4": 17,
+			"round5": 31,
+			"round6": 42,
+			"bonus": 2
+		},
+		{
+			"episode": 502,
+			"round1": 6,
+			"round2": 22,
+			"round3": 28,
+			"round4": 32,
+			"round5": 34,
+			"round6": 40,
+			"bonus": 26
+		},
+		{
+			"episode": 503,
+			"round1": 1,
+			"round2": 5,
+			"round3": 27,
+			"round4": 30,
+			"round5": 34,
+			"round6": 36,
+			"bonus": 40
+		},
+		{
+			"episode": 504,
+			"round1": 6,
+			"round2": 14,
+			"round3": 22,
+			"round4": 26,
+			"round5": 43,
+			"round6": 44,
+			"bonus": 31
+		},
+		{
+			"episode": 505,
+			"round1": 7,
+			"round2": 20,
+			"round3": 22,
+			"round4": 25,
+			"round5": 38,
+			"round6": 40,
+			"bonus": 44
+		},
+		{
+			"episode": 506,
+			"round1": 6,
+			"round2": 9,
+			"round3": 11,
+			"round4": 22,
+			"round5": 24,
+			"round6": 30,
+			"bonus": 31
+		},
+		{
+			"episode": 507,
+			"round1": 12,
+			"round2": 13,
+			"round3": 32,
+			"round4": 33,
+			"round5": 40,
+			"round6": 41,
+			"bonus": 4
+		},
+		{
+			"episode": 508,
+			"round1": 5,
+			"round2": 27,
+			"round3": 31,
+			"round4": 34,
+			"round5": 35,
+			"round6": 43,
+			"bonus": 37
+		},
+		{
+			"episode": 509,
+			"round1": 12,
+			"round2": 25,
+			"round3": 29,
+			"round4": 35,
+			"round5": 42,
+			"round6": 43,
+			"bonus": 24
+		},
+		{
+			"episode": 510,
+			"round1": 12,
+			"round2": 29,
+			"round3": 32,
+			"round4": 33,
+			"round5": 39,
+			"round6": 40,
+			"bonus": 42
+		},
+		{
+			"episode": 511,
+			"round1": 3,
+			"round2": 7,
+			"round3": 14,
+			"round4": 23,
+			"round5": 26,
+			"round6": 42,
+			"bonus": 24
+		},
+		{
+			"episode": 512,
+			"round1": 4,
+			"round2": 5,
+			"round3": 9,
+			"round4": 13,
+			"round5": 26,
+			"round6": 27,
+			"bonus": 1
+		},
+		{
+			"episode": 513,
+			"round1": 5,
+			"round2": 8,
+			"round3": 21,
+			"round4": 23,
+			"round5": 27,
+			"round6": 33,
+			"bonus": 12
+		},
+		{
+			"episode": 514,
+			"round1": 1,
+			"round2": 15,
+			"round3": 20,
+			"round4": 26,
+			"round5": 35,
+			"round6": 42,
+			"bonus": 9
+		},
+		{
+			"episode": 515,
+			"round1": 2,
+			"round2": 11,
+			"round3": 12,
+			"round4": 15,
+			"round5": 23,
+			"round6": 37,
+			"bonus": 8
+		},
+		{
+			"episode": 516,
+			"round1": 2,
+			"round2": 8,
+			"round3": 23,
+			"round4": 41,
+			"round5": 43,
+			"round6": 44,
+			"bonus": 30
+		},
+		{
+			"episode": 517,
+			"round1": 1,
+			"round2": 9,
+			"round3": 12,
+			"round4": 28,
+			"round5": 36,
+			"round6": 41,
+			"bonus": 10
+		},
+		{
+			"episode": 518,
+			"round1": 14,
+			"round2": 23,
+			"round3": 30,
+			"round4": 32,
+			"round5": 34,
+			"round6": 38,
+			"bonus": 6
+		},
+		{
+			"episode": 519,
+			"round1": 6,
+			"round2": 8,
+			"round3": 13,
+			"round4": 16,
+			"round5": 30,
+			"round6": 43,
+			"bonus": 3
+		},
+		{
+			"episode": 520,
+			"round1": 4,
+			"round2": 22,
+			"round3": 27,
+			"round4": 28,
+			"round5": 38,
+			"round6": 40,
+			"bonus": 1
+		},
+		{
+			"episode": 521,
+			"round1": 3,
+			"round2": 7,
+			"round3": 18,
+			"round4": 29,
+			"round5": 32,
+			"round6": 36,
+			"bonus": 19
+		},
+		{
+			"episode": 522,
+			"round1": 4,
+			"round2": 5,
+			"round3": 13,
+			"round4": 14,
+			"round5": 37,
+			"round6": 41,
+			"bonus": 11
+		},
+		{
+			"episode": 523,
+			"round1": 1,
+			"round2": 4,
+			"round3": 37,
+			"round4": 38,
+			"round5": 40,
+			"round6": 45,
+			"bonus": 7
+		},
+		{
+			"episode": 524,
+			"round1": 10,
+			"round2": 11,
+			"round3": 29,
+			"round4": 38,
+			"round5": 41,
+			"round6": 45,
+			"bonus": 21
+		},
+		{
+			"episode": 525,
+			"round1": 11,
+			"round2": 23,
+			"round3": 26,
+			"round4": 29,
+			"round5": 39,
+			"round6": 44,
+			"bonus": 22
+		},
+		{
+			"episode": 526,
+			"round1": 7,
+			"round2": 14,
+			"round3": 17,
+			"round4": 20,
+			"round5": 35,
+			"round6": 39,
+			"bonus": 31
+		},
+		{
+			"episode": 527,
+			"round1": 1,
+			"round2": 12,
+			"round3": 22,
+			"round4": 32,
+			"round5": 33,
+			"round6": 42,
+			"bonus": 38
+		},
+		{
+			"episode": 528,
+			"round1": 5,
+			"round2": 17,
+			"round3": 25,
+			"round4": 31,
+			"round5": 39,
+			"round6": 40,
+			"bonus": 10
+		},
+		{
+			"episode": 529,
+			"round1": 18,
+			"round2": 20,
+			"round3": 24,
+			"round4": 27,
+			"round5": 31,
+			"round6": 42,
+			"bonus": 39
+		},
+		{
+			"episode": 530,
+			"round1": 16,
+			"round2": 23,
+			"round3": 27,
+			"round4": 29,
+			"round5": 33,
+			"round6": 41,
+			"bonus": 22
+		},
+		{
+			"episode": 531,
+			"round1": 1,
+			"round2": 5,
+			"round3": 9,
+			"round4": 21,
+			"round5": 27,
+			"round6": 35,
+			"bonus": 45
+		},
+		{
+			"episode": 532,
+			"round1": 16,
+			"round2": 17,
+			"round3": 23,
+			"round4": 24,
+			"round5": 29,
+			"round6": 44,
+			"bonus": 3
+		},
+		{
+			"episode": 533,
+			"round1": 9,
+			"round2": 14,
+			"round3": 15,
+			"round4": 17,
+			"round5": 31,
+			"round6": 33,
+			"bonus": 23
+		},
+		{
+			"episode": 534,
+			"round1": 10,
+			"round2": 24,
+			"round3": 26,
+			"round4": 29,
+			"round5": 37,
+			"round6": 38,
+			"bonus": 32
+		},
+		{
+			"episode": 535,
+			"round1": 11,
+			"round2": 12,
+			"round3": 14,
+			"round4": 15,
+			"round5": 18,
+			"round6": 39,
+			"bonus": 34
+		},
+		{
+			"episode": 536,
+			"round1": 7,
+			"round2": 8,
+			"round3": 18,
+			"round4": 32,
+			"round5": 37,
+			"round6": 43,
+			"bonus": 12
+		},
+		{
+			"episode": 537,
+			"round1": 12,
+			"round2": 23,
+			"round3": 26,
+			"round4": 30,
+			"round5": 36,
+			"round6": 43,
+			"bonus": 11
+		},
+		{
+			"episode": 538,
+			"round1": 6,
+			"round2": 10,
+			"round3": 18,
+			"round4": 31,
+			"round5": 32,
+			"round6": 34,
+			"bonus": 11
+		},
+		{
+			"episode": 539,
+			"round1": 3,
+			"round2": 19,
+			"round3": 22,
+			"round4": 31,
+			"round5": 42,
+			"round6": 43,
+			"bonus": 26
+		},
+		{
+			"episode": 540,
+			"round1": 3,
+			"round2": 12,
+			"round3": 13,
+			"round4": 15,
+			"round5": 34,
+			"round6": 36,
+			"bonus": 14
+		},
+		{
+			"episode": 541,
+			"round1": 8,
+			"round2": 13,
+			"round3": 26,
+			"round4": 28,
+			"round5": 32,
+			"round6": 34,
+			"bonus": 43
+		},
+		{
+			"episode": 542,
+			"round1": 5,
+			"round2": 6,
+			"round3": 19,
+			"round4": 26,
+			"round5": 41,
+			"round6": 45,
+			"bonus": 34
+		},
+		{
+			"episode": 543,
+			"round1": 13,
+			"round2": 18,
+			"round3": 26,
+			"round4": 31,
+			"round5": 34,
+			"round6": 44,
+			"bonus": 12
+		},
+		{
+			"episode": 544,
+			"round1": 5,
+			"round2": 17,
+			"round3": 21,
+			"round4": 25,
+			"round5": 36,
+			"round6": 44,
+			"bonus": 10
+		},
+		{
+			"episode": 545,
+			"round1": 4,
+			"round2": 24,
+			"round3": 25,
+			"round4": 27,
+			"round5": 34,
+			"round6": 35,
+			"bonus": 2
+		},
+		{
+			"episode": 546,
+			"round1": 8,
+			"round2": 17,
+			"round3": 20,
+			"round4": 27,
+			"round5": 37,
+			"round6": 43,
+			"bonus": 6
+		},
+		{
+			"episode": 547,
+			"round1": 6,
+			"round2": 7,
+			"round3": 15,
+			"round4": 22,
+			"round5": 34,
+			"round6": 39,
+			"bonus": 28
+		},
+		{
+			"episode": 548,
+			"round1": 1,
+			"round2": 12,
+			"round3": 13,
+			"round4": 21,
+			"round5": 32,
+			"round6": 45,
+			"bonus": 14
+		},
+		{
+			"episode": 549,
+			"round1": 29,
+			"round2": 31,
+			"round3": 35,
+			"round4": 38,
+			"round5": 40,
+			"round6": 44,
+			"bonus": 17
+		},
+		{
+			"episode": 550,
+			"round1": 1,
+			"round2": 7,
+			"round3": 14,
+			"round4": 20,
+			"round5": 34,
+			"round6": 37,
+			"bonus": 41
+		},
+		{
+			"episode": 551,
+			"round1": 3,
+			"round2": 6,
+			"round3": 20,
+			"round4": 24,
+			"round5": 27,
+			"round6": 44,
+			"bonus": 25
+		},
+		{
+			"episode": 552,
+			"round1": 1,
+			"round2": 10,
+			"round3": 20,
+			"round4": 32,
+			"round5": 35,
+			"round6": 40,
+			"bonus": 43
+		},
+		{
+			"episode": 553,
+			"round1": 2,
+			"round2": 7,
+			"round3": 17,
+			"round4": 28,
+			"round5": 29,
+			"round6": 39,
+			"bonus": 37
+		},
+		{
+			"episode": 554,
+			"round1": 13,
+			"round2": 14,
+			"round3": 17,
+			"round4": 32,
+			"round5": 41,
+			"round6": 42,
+			"bonus": 6
+		},
+		{
+			"episode": 555,
+			"round1": 11,
+			"round2": 17,
+			"round3": 21,
+			"round4": 24,
+			"round5": 26,
+			"round6": 36,
+			"bonus": 12
+		},
+		{
+			"episode": 556,
+			"round1": 12,
+			"round2": 20,
+			"round3": 23,
+			"round4": 28,
+			"round5": 30,
+			"round6": 44,
+			"bonus": 43
+		},
+		{
+			"episode": 557,
+			"round1": 4,
+			"round2": 20,
+			"round3": 26,
+			"round4": 28,
+			"round5": 35,
+			"round6": 40,
+			"bonus": 31
+		},
+		{
+			"episode": 558,
+			"round1": 12,
+			"round2": 15,
+			"round3": 19,
+			"round4": 26,
+			"round5": 40,
+			"round6": 43,
+			"bonus": 29
+		},
+		{
+			"episode": 559,
+			"round1": 11,
+			"round2": 12,
+			"round3": 25,
+			"round4": 32,
+			"round5": 44,
+			"round6": 45,
+			"bonus": 23
+		},
+		{
+			"episode": 560,
+			"round1": 1,
+			"round2": 4,
+			"round3": 20,
+			"round4": 23,
+			"round5": 29,
+			"round6": 45,
+			"bonus": 28
+		},
+		{
+			"episode": 561,
+			"round1": 5,
+			"round2": 7,
+			"round3": 18,
+			"round4": 37,
+			"round5": 42,
+			"round6": 45,
+			"bonus": 20
+		},
+		{
+			"episode": 562,
+			"round1": 4,
+			"round2": 11,
+			"round3": 13,
+			"round4": 17,
+			"round5": 20,
+			"round6": 31,
+			"bonus": 33
+		},
+		{
+			"episode": 563,
+			"round1": 5,
+			"round2": 10,
+			"round3": 16,
+			"round4": 17,
+			"round5": 31,
+			"round6": 32,
+			"bonus": 21
+		},
+		{
+			"episode": 564,
+			"round1": 14,
+			"round2": 19,
+			"round3": 25,
+			"round4": 26,
+			"round5": 27,
+			"round6": 34,
+			"bonus": 2
+		},
+		{
+			"episode": 565,
+			"round1": 4,
+			"round2": 10,
+			"round3": 18,
+			"round4": 27,
+			"round5": 40,
+			"round6": 45,
+			"bonus": 38
+		},
+		{
+			"episode": 566,
+			"round1": 4,
+			"round2": 5,
+			"round3": 6,
+			"round4": 25,
+			"round5": 26,
+			"round6": 43,
+			"bonus": 41
+		},
+		{
+			"episode": 567,
+			"round1": 1,
+			"round2": 10,
+			"round3": 15,
+			"round4": 16,
+			"round5": 32,
+			"round6": 41,
+			"bonus": 28
+		},
+		{
+			"episode": 568,
+			"round1": 1,
+			"round2": 3,
+			"round3": 17,
+			"round4": 20,
+			"round5": 31,
+			"round6": 44,
+			"bonus": 40
+		},
+		{
+			"episode": 569,
+			"round1": 3,
+			"round2": 6,
+			"round3": 13,
+			"round4": 23,
+			"round5": 24,
+			"round6": 35,
+			"bonus": 1
+		},
+		{
+			"episode": 570,
+			"round1": 1,
+			"round2": 12,
+			"round3": 26,
+			"round4": 27,
+			"round5": 29,
+			"round6": 33,
+			"bonus": 42
+		},
+		{
+			"episode": 571,
+			"round1": 11,
+			"round2": 18,
+			"round3": 21,
+			"round4": 26,
+			"round5": 38,
+			"round6": 43,
+			"bonus": 29
+		},
+		{
+			"episode": 572,
+			"round1": 3,
+			"round2": 13,
+			"round3": 18,
+			"round4": 33,
+			"round5": 37,
+			"round6": 45,
+			"bonus": 1
+		},
+		{
+			"episode": 573,
+			"round1": 2,
+			"round2": 4,
+			"round3": 20,
+			"round4": 34,
+			"round5": 35,
+			"round6": 43,
+			"bonus": 14
+		},
+		{
+			"episode": 574,
+			"round1": 14,
+			"round2": 15,
+			"round3": 16,
+			"round4": 19,
+			"round5": 25,
+			"round6": 43,
+			"bonus": 2
+		},
+		{
+			"episode": 575,
+			"round1": 2,
+			"round2": 8,
+			"round3": 20,
+			"round4": 30,
+			"round5": 33,
+			"round6": 34,
+			"bonus": 6
+		},
+		{
+			"episode": 576,
+			"round1": 10,
+			"round2": 11,
+			"round3": 15,
+			"round4": 25,
+			"round5": 35,
+			"round6": 41,
+			"bonus": 13
+		},
+		{
+			"episode": 577,
+			"round1": 16,
+			"round2": 17,
+			"round3": 22,
+			"round4": 31,
+			"round5": 34,
+			"round6": 37,
+			"bonus": 33
+		},
+		{
+			"episode": 578,
+			"round1": 5,
+			"round2": 12,
+			"round3": 14,
+			"round4": 32,
+			"round5": 34,
+			"round6": 42,
+			"bonus": 16
+		},
+		{
+			"episode": 579,
+			"round1": 5,
+			"round2": 7,
+			"round3": 20,
+			"round4": 22,
+			"round5": 37,
+			"round6": 42,
+			"bonus": 39
+		},
+		{
+			"episode": 580,
+			"round1": 5,
+			"round2": 7,
+			"round3": 9,
+			"round4": 11,
+			"round5": 32,
+			"round6": 35,
+			"bonus": 33
+		},
+		{
+			"episode": 581,
+			"round1": 3,
+			"round2": 5,
+			"round3": 14,
+			"round4": 20,
+			"round5": 42,
+			"round6": 44,
+			"bonus": 33
+		},
+		{
+			"episode": 582,
+			"round1": 2,
+			"round2": 12,
+			"round3": 14,
+			"round4": 33,
+			"round5": 40,
+			"round6": 41,
+			"bonus": 25
+		},
+		{
+			"episode": 583,
+			"round1": 8,
+			"round2": 17,
+			"round3": 27,
+			"round4": 33,
+			"round5": 40,
+			"round6": 44,
+			"bonus": 24
+		},
+		{
+			"episode": 584,
+			"round1": 7,
+			"round2": 18,
+			"round3": 30,
+			"round4": 39,
+			"round5": 40,
+			"round6": 41,
+			"bonus": 36
+		},
+		{
+			"episode": 585,
+			"round1": 6,
+			"round2": 7,
+			"round3": 10,
+			"round4": 16,
+			"round5": 38,
+			"round6": 41,
+			"bonus": 4
+		},
+		{
+			"episode": 586,
+			"round1": 2,
+			"round2": 7,
+			"round3": 12,
+			"round4": 15,
+			"round5": 21,
+			"round6": 34,
+			"bonus": 5
+		},
+		{
+			"episode": 587,
+			"round1": 14,
+			"round2": 21,
+			"round3": 29,
+			"round4": 31,
+			"round5": 32,
+			"round6": 37,
+			"bonus": 17
+		},
+		{
+			"episode": 588,
+			"round1": 2,
+			"round2": 8,
+			"round3": 15,
+			"round4": 22,
+			"round5": 25,
+			"round6": 41,
+			"bonus": 30
+		},
+		{
+			"episode": 589,
+			"round1": 6,
+			"round2": 8,
+			"round3": 28,
+			"round4": 33,
+			"round5": 38,
+			"round6": 39,
+			"bonus": 22
+		},
+		{
+			"episode": 590,
+			"round1": 20,
+			"round2": 30,
+			"round3": 36,
+			"round4": 38,
+			"round5": 41,
+			"round6": 45,
+			"bonus": 23
+		},
+		{
+			"episode": 591,
+			"round1": 8,
+			"round2": 13,
+			"round3": 14,
+			"round4": 30,
+			"round5": 38,
+			"round6": 39,
+			"bonus": 5
+		},
+		{
+			"episode": 592,
+			"round1": 2,
+			"round2": 5,
+			"round3": 6,
+			"round4": 13,
+			"round5": 28,
+			"round6": 44,
+			"bonus": 43
+		},
+		{
+			"episode": 593,
+			"round1": 9,
+			"round2": 10,
+			"round3": 13,
+			"round4": 24,
+			"round5": 33,
+			"round6": 38,
+			"bonus": 28
+		},
+		{
+			"episode": 594,
+			"round1": 2,
+			"round2": 8,
+			"round3": 13,
+			"round4": 25,
+			"round5": 28,
+			"round6": 37,
+			"bonus": 3
+		},
+		{
+			"episode": 595,
+			"round1": 8,
+			"round2": 24,
+			"round3": 28,
+			"round4": 35,
+			"round5": 38,
+			"round6": 40,
+			"bonus": 5
+		},
+		{
+			"episode": 596,
+			"round1": 3,
+			"round2": 4,
+			"round3": 12,
+			"round4": 14,
+			"round5": 25,
+			"round6": 43,
+			"bonus": 17
+		},
+		{
+			"episode": 597,
+			"round1": 8,
+			"round2": 10,
+			"round3": 23,
+			"round4": 24,
+			"round5": 35,
+			"round6": 43,
+			"bonus": 37
+		},
+		{
+			"episode": 598,
+			"round1": 4,
+			"round2": 12,
+			"round3": 24,
+			"round4": 33,
+			"round5": 38,
+			"round6": 45,
+			"bonus": 22
+		},
+		{
+			"episode": 599,
+			"round1": 5,
+			"round2": 12,
+			"round3": 17,
+			"round4": 29,
+			"round5": 34,
+			"round6": 35,
+			"bonus": 27
+		},
+		{
+			"episode": 600,
+			"round1": 5,
+			"round2": 11,
+			"round3": 14,
+			"round4": 27,
+			"round5": 29,
+			"round6": 36,
+			"bonus": 44
+		},
+		{
+			"episode": 601,
+			"round1": 2,
+			"round2": 16,
+			"round3": 19,
+			"round4": 31,
+			"round5": 34,
+			"round6": 35,
+			"bonus": 37
+		},
+		{
+			"episode": 602,
+			"round1": 13,
+			"round2": 14,
+			"round3": 22,
+			"round4": 27,
+			"round5": 30,
+			"round6": 38,
+			"bonus": 2
+		},
+		{
+			"episode": 603,
+			"round1": 2,
+			"round2": 19,
+			"round3": 25,
+			"round4": 26,
+			"round5": 27,
+			"round6": 43,
+			"bonus": 28
+		},
+		{
+			"episode": 604,
+			"round1": 2,
+			"round2": 6,
+			"round3": 18,
+			"round4": 21,
+			"round5": 33,
+			"round6": 34,
+			"bonus": 30
+		},
+		{
+			"episode": 605,
+			"round1": 1,
+			"round2": 2,
+			"round3": 7,
+			"round4": 9,
+			"round5": 10,
+			"round6": 38,
+			"bonus": 42
+		},
+		{
+			"episode": 606,
+			"round1": 1,
+			"round2": 5,
+			"round3": 6,
+			"round4": 14,
+			"round5": 20,
+			"round6": 39,
+			"bonus": 22
+		},
+		{
+			"episode": 607,
+			"round1": 8,
+			"round2": 14,
+			"round3": 23,
+			"round4": 36,
+			"round5": 38,
+			"round6": 39,
+			"bonus": 13
+		},
+		{
+			"episode": 608,
+			"round1": 4,
+			"round2": 8,
+			"round3": 18,
+			"round4": 19,
+			"round5": 39,
+			"round6": 44,
+			"bonus": 41
+		},
+		{
+			"episode": 609,
+			"round1": 4,
+			"round2": 8,
+			"round3": 27,
+			"round4": 34,
+			"round5": 39,
+			"round6": 40,
+			"bonus": 13
+		},
+		{
+			"episode": 610,
+			"round1": 14,
+			"round2": 18,
+			"round3": 20,
+			"round4": 23,
+			"round5": 28,
+			"round6": 36,
+			"bonus": 33
+		},
+		{
+			"episode": 611,
+			"round1": 2,
+			"round2": 22,
+			"round3": 27,
+			"round4": 33,
+			"round5": 36,
+			"round6": 37,
+			"bonus": 14
+		},
+		{
+			"episode": 612,
+			"round1": 6,
+			"round2": 9,
+			"round3": 18,
+			"round4": 19,
+			"round5": 25,
+			"round6": 33,
+			"bonus": 40
+		},
+		{
+			"episode": 613,
+			"round1": 7,
+			"round2": 8,
+			"round3": 11,
+			"round4": 16,
+			"round5": 41,
+			"round6": 44,
+			"bonus": 35
+		},
+		{
+			"episode": 614,
+			"round1": 8,
+			"round2": 21,
+			"round3": 25,
+			"round4": 39,
+			"round5": 40,
+			"round6": 44,
+			"bonus": 18
+		},
+		{
+			"episode": 615,
+			"round1": 10,
+			"round2": 17,
+			"round3": 18,
+			"round4": 19,
+			"round5": 23,
+			"round6": 27,
+			"bonus": 35
+		},
+		{
+			"episode": 616,
+			"round1": 5,
+			"round2": 13,
+			"round3": 18,
+			"round4": 23,
+			"round5": 40,
+			"round6": 45,
+			"bonus": 3
+		},
+		{
+			"episode": 617,
+			"round1": 4,
+			"round2": 5,
+			"round3": 11,
+			"round4": 12,
+			"round5": 24,
+			"round6": 27,
+			"bonus": 28
+		},
+		{
+			"episode": 618,
+			"round1": 8,
+			"round2": 16,
+			"round3": 25,
+			"round4": 30,
+			"round5": 42,
+			"round6": 43,
+			"bonus": 15
+		},
+		{
+			"episode": 619,
+			"round1": 6,
+			"round2": 8,
+			"round3": 13,
+			"round4": 30,
+			"round5": 35,
+			"round6": 40,
+			"bonus": 21
+		},
+		{
+			"episode": 620,
+			"round1": 2,
+			"round2": 16,
+			"round3": 17,
+			"round4": 32,
+			"round5": 39,
+			"round6": 45,
+			"bonus": 40
+		},
+		{
+			"episode": 621,
+			"round1": 1,
+			"round2": 2,
+			"round3": 6,
+			"round4": 16,
+			"round5": 19,
+			"round6": 42,
+			"bonus": 9
+		},
+		{
+			"episode": 622,
+			"round1": 9,
+			"round2": 15,
+			"round3": 16,
+			"round4": 21,
+			"round5": 28,
+			"round6": 34,
+			"bonus": 24
+		},
+		{
+			"episode": 623,
+			"round1": 7,
+			"round2": 13,
+			"round3": 30,
+			"round4": 39,
+			"round5": 41,
+			"round6": 45,
+			"bonus": 25
+		},
+		{
+			"episode": 624,
+			"round1": 1,
+			"round2": 7,
+			"round3": 19,
+			"round4": 26,
+			"round5": 27,
+			"round6": 35,
+			"bonus": 16
+		},
+		{
+			"episode": 625,
+			"round1": 3,
+			"round2": 6,
+			"round3": 7,
+			"round4": 20,
+			"round5": 21,
+			"round6": 39,
+			"bonus": 13
+		},
+		{
+			"episode": 626,
+			"round1": 13,
+			"round2": 14,
+			"round3": 26,
+			"round4": 33,
+			"round5": 40,
+			"round6": 43,
+			"bonus": 15
+		},
+		{
+			"episode": 627,
+			"round1": 2,
+			"round2": 9,
+			"round3": 22,
+			"round4": 25,
+			"round5": 31,
+			"round6": 45,
+			"bonus": 12
+		},
+		{
+			"episode": 628,
+			"round1": 1,
+			"round2": 7,
+			"round3": 12,
+			"round4": 15,
+			"round5": 23,
+			"round6": 42,
+			"bonus": 11
+		},
+		{
+			"episode": 629,
+			"round1": 19,
+			"round2": 28,
+			"round3": 31,
+			"round4": 38,
+			"round5": 43,
+			"round6": 44,
+			"bonus": 1
+		},
+		{
+			"episode": 630,
+			"round1": 8,
+			"round2": 17,
+			"round3": 21,
+			"round4": 24,
+			"round5": 27,
+			"round6": 31,
+			"bonus": 15
+		},
+		{
+			"episode": 631,
+			"round1": 1,
+			"round2": 2,
+			"round3": 4,
+			"round4": 23,
+			"round5": 31,
+			"round6": 34,
+			"bonus": 8
+		},
+		{
+			"episode": 632,
+			"round1": 15,
+			"round2": 18,
+			"round3": 21,
+			"round4": 32,
+			"round5": 35,
+			"round6": 44,
+			"bonus": 6
+		},
+		{
+			"episode": 633,
+			"round1": 9,
+			"round2": 12,
+			"round3": 19,
+			"round4": 20,
+			"round5": 39,
+			"round6": 41,
+			"bonus": 13
+		},
+		{
+			"episode": 634,
+			"round1": 4,
+			"round2": 10,
+			"round3": 11,
+			"round4": 12,
+			"round5": 20,
+			"round6": 27,
+			"bonus": 38
+		},
+		{
+			"episode": 635,
+			"round1": 11,
+			"round2": 13,
+			"round3": 25,
+			"round4": 26,
+			"round5": 29,
+			"round6": 33,
+			"bonus": 32
+		},
+		{
+			"episode": 636,
+			"round1": 6,
+			"round2": 7,
+			"round3": 15,
+			"round4": 16,
+			"round5": 20,
+			"round6": 31,
+			"bonus": 26
+		},
+		{
+			"episode": 637,
+			"round1": 3,
+			"round2": 16,
+			"round3": 22,
+			"round4": 37,
+			"round5": 38,
+			"round6": 44,
+			"bonus": 23
+		},
+		{
+			"episode": 638,
+			"round1": 7,
+			"round2": 18,
+			"round3": 22,
+			"round4": 24,
+			"round5": 31,
+			"round6": 34,
+			"bonus": 6
+		},
+		{
+			"episode": 639,
+			"round1": 6,
+			"round2": 15,
+			"round3": 22,
+			"round4": 23,
+			"round5": 25,
+			"round6": 32,
+			"bonus": 40
+		},
+		{
+			"episode": 640,
+			"round1": 14,
+			"round2": 15,
+			"round3": 18,
+			"round4": 21,
+			"round5": 26,
+			"round6": 35,
+			"bonus": 23
+		},
+		{
+			"episode": 641,
+			"round1": 11,
+			"round2": 18,
+			"round3": 21,
+			"round4": 36,
+			"round5": 37,
+			"round6": 43,
+			"bonus": 12
+		},
+		{
+			"episode": 642,
+			"round1": 8,
+			"round2": 17,
+			"round3": 18,
+			"round4": 24,
+			"round5": 39,
+			"round6": 45,
+			"bonus": 32
+		},
+		{
+			"episode": 643,
+			"round1": 15,
+			"round2": 24,
+			"round3": 31,
+			"round4": 32,
+			"round5": 33,
+			"round6": 40,
+			"bonus": 13
+		},
+		{
+			"episode": 644,
+			"round1": 5,
+			"round2": 13,
+			"round3": 17,
+			"round4": 23,
+			"round5": 28,
+			"round6": 36,
+			"bonus": 8
+		},
+		{
+			"episode": 645,
+			"round1": 1,
+			"round2": 4,
+			"round3": 16,
+			"round4": 26,
+			"round5": 40,
+			"round6": 41,
+			"bonus": 31
+		},
+		{
+			"episode": 646,
+			"round1": 2,
+			"round2": 9,
+			"round3": 24,
+			"round4": 41,
+			"round5": 43,
+			"round6": 45,
+			"bonus": 30
+		},
+		{
+			"episode": 647,
+			"round1": 5,
+			"round2": 16,
+			"round3": 21,
+			"round4": 23,
+			"round5": 24,
+			"round6": 30,
+			"bonus": 29
+		},
+		{
+			"episode": 648,
+			"round1": 13,
+			"round2": 19,
+			"round3": 28,
+			"round4": 37,
+			"round5": 38,
+			"round6": 43,
+			"bonus": 4
+		},
+		{
+			"episode": 649,
+			"round1": 3,
+			"round2": 21,
+			"round3": 22,
+			"round4": 33,
+			"round5": 41,
+			"round6": 42,
+			"bonus": 20
+		},
+		{
+			"episode": 650,
+			"round1": 3,
+			"round2": 4,
+			"round3": 7,
+			"round4": 11,
+			"round5": 31,
+			"round6": 41,
+			"bonus": 35
+		},
+		{
+			"episode": 651,
+			"round1": 11,
+			"round2": 12,
+			"round3": 16,
+			"round4": 26,
+			"round5": 29,
+			"round6": 44,
+			"bonus": 18
+		},
+		{
+			"episode": 652,
+			"round1": 3,
+			"round2": 13,
+			"round3": 15,
+			"round4": 40,
+			"round5": 41,
+			"round6": 44,
+			"bonus": 20
+		},
+		{
+			"episode": 653,
+			"round1": 5,
+			"round2": 6,
+			"round3": 26,
+			"round4": 27,
+			"round5": 38,
+			"round6": 39,
+			"bonus": 1
+		},
+		{
+			"episode": 654,
+			"round1": 16,
+			"round2": 21,
+			"round3": 26,
+			"round4": 31,
+			"round5": 36,
+			"round6": 43,
+			"bonus": 6
+		},
+		{
+			"episode": 655,
+			"round1": 7,
+			"round2": 37,
+			"round3": 38,
+			"round4": 39,
+			"round5": 40,
+			"round6": 44,
+			"bonus": 18
+		},
+		{
+			"episode": 656,
+			"round1": 3,
+			"round2": 7,
+			"round3": 14,
+			"round4": 16,
+			"round5": 31,
+			"round6": 40,
+			"bonus": 39
+		},
+		{
+			"episode": 657,
+			"round1": 10,
+			"round2": 14,
+			"round3": 19,
+			"round4": 39,
+			"round5": 40,
+			"round6": 43,
+			"bonus": 23
+		},
+		{
+			"episode": 658,
+			"round1": 8,
+			"round2": 19,
+			"round3": 25,
+			"round4": 28,
+			"round5": 32,
+			"round6": 36,
+			"bonus": 37
+		},
+		{
+			"episode": 659,
+			"round1": 7,
+			"round2": 18,
+			"round3": 19,
+			"round4": 27,
+			"round5": 29,
+			"round6": 42,
+			"bonus": 45
+		},
+		{
+			"episode": 660,
+			"round1": 4,
+			"round2": 9,
+			"round3": 23,
+			"round4": 33,
+			"round5": 39,
+			"round6": 44,
+			"bonus": 14
+		},
+		{
+			"episode": 661,
+			"round1": 2,
+			"round2": 3,
+			"round3": 12,
+			"round4": 20,
+			"round5": 27,
+			"round6": 38,
+			"bonus": 40
+		},
+		{
+			"episode": 662,
+			"round1": 5,
+			"round2": 6,
+			"round3": 9,
+			"round4": 11,
+			"round5": 15,
+			"round6": 37,
+			"bonus": 26
+		},
+		{
+			"episode": 663,
+			"round1": 3,
+			"round2": 5,
+			"round3": 8,
+			"round4": 19,
+			"round5": 38,
+			"round6": 42,
+			"bonus": 20
+		},
+		{
+			"episode": 664,
+			"round1": 10,
+			"round2": 20,
+			"round3": 33,
+			"round4": 36,
+			"round5": 41,
+			"round6": 44,
+			"bonus": 5
+		},
+		{
+			"episode": 665,
+			"round1": 5,
+			"round2": 6,
+			"round3": 11,
+			"round4": 17,
+			"round5": 38,
+			"round6": 44,
+			"bonus": 13
+		},
+		{
+			"episode": 666,
+			"round1": 2,
+			"round2": 4,
+			"round3": 6,
+			"round4": 11,
+			"round5": 17,
+			"round6": 28,
+			"bonus": 16
+		},
+		{
+			"episode": 667,
+			"round1": 15,
+			"round2": 17,
+			"round3": 25,
+			"round4": 37,
+			"round5": 42,
+			"round6": 43,
+			"bonus": 13
+		},
+		{
+			"episode": 668,
+			"round1": 12,
+			"round2": 14,
+			"round3": 15,
+			"round4": 24,
+			"round5": 27,
+			"round6": 32,
+			"bonus": 3
+		},
+		{
+			"episode": 669,
+			"round1": 7,
+			"round2": 8,
+			"round3": 20,
+			"round4": 29,
+			"round5": 33,
+			"round6": 38,
+			"bonus": 9
+		},
+		{
+			"episode": 670,
+			"round1": 11,
+			"round2": 18,
+			"round3": 26,
+			"round4": 27,
+			"round5": 40,
+			"round6": 41,
+			"bonus": 25
+		},
+		{
+			"episode": 671,
+			"round1": 7,
+			"round2": 9,
+			"round3": 10,
+			"round4": 13,
+			"round5": 31,
+			"round6": 35,
+			"bonus": 24
+		},
+		{
+			"episode": 672,
+			"round1": 8,
+			"round2": 21,
+			"round3": 28,
+			"round4": 31,
+			"round5": 36,
+			"round6": 45,
+			"bonus": 43
+		},
+		{
+			"episode": 673,
+			"round1": 7,
+			"round2": 10,
+			"round3": 17,
+			"round4": 29,
+			"round5": 33,
+			"round6": 44,
+			"bonus": 5
+		},
+		{
+			"episode": 674,
+			"round1": 9,
+			"round2": 10,
+			"round3": 14,
+			"round4": 25,
+			"round5": 27,
+			"round6": 31,
+			"bonus": 11
+		},
+		{
+			"episode": 675,
+			"round1": 1,
+			"round2": 8,
+			"round3": 11,
+			"round4": 15,
+			"round5": 18,
+			"round6": 45,
+			"bonus": 7
+		},
+		{
+			"episode": 676,
+			"round1": 1,
+			"round2": 8,
+			"round3": 17,
+			"round4": 34,
+			"round5": 39,
+			"round6": 45,
+			"bonus": 27
+		},
+		{
+			"episode": 677,
+			"round1": 12,
+			"round2": 15,
+			"round3": 24,
+			"round4": 36,
+			"round5": 41,
+			"round6": 44,
+			"bonus": 42
+		},
+		{
+			"episode": 678,
+			"round1": 4,
+			"round2": 5,
+			"round3": 6,
+			"round4": 12,
+			"round5": 25,
+			"round6": 37,
+			"bonus": 45
+		},
+		{
+			"episode": 679,
+			"round1": 3,
+			"round2": 5,
+			"round3": 7,
+			"round4": 14,
+			"round5": 26,
+			"round6": 34,
+			"bonus": 35
+		},
+		{
+			"episode": 680,
+			"round1": 4,
+			"round2": 10,
+			"round3": 19,
+			"round4": 29,
+			"round5": 32,
+			"round6": 42,
+			"bonus": 30
+		},
+		{
+			"episode": 681,
+			"round1": 21,
+			"round2": 24,
+			"round3": 27,
+			"round4": 29,
+			"round5": 43,
+			"round6": 44,
+			"bonus": 7
+		},
+		{
+			"episode": 682,
+			"round1": 17,
+			"round2": 23,
+			"round3": 27,
+			"round4": 35,
+			"round5": 38,
+			"round6": 43,
+			"bonus": 2
+		},
+		{
+			"episode": 683,
+			"round1": 6,
+			"round2": 13,
+			"round3": 20,
+			"round4": 27,
+			"round5": 28,
+			"round6": 40,
+			"bonus": 15
+		},
+		{
+			"episode": 684,
+			"round1": 1,
+			"round2": 11,
+			"round3": 15,
+			"round4": 17,
+			"round5": 25,
+			"round6": 39,
+			"bonus": 40
+		},
+		{
+			"episode": 685,
+			"round1": 6,
+			"round2": 7,
+			"round3": 12,
+			"round4": 28,
+			"round5": 38,
+			"round6": 40,
+			"bonus": 18
+		},
+		{
+			"episode": 686,
+			"round1": 7,
+			"round2": 12,
+			"round3": 15,
+			"round4": 24,
+			"round5": 25,
+			"round6": 43,
+			"bonus": 13
+		},
+		{
+			"episode": 687,
+			"round1": 1,
+			"round2": 8,
+			"round3": 10,
+			"round4": 13,
+			"round5": 28,
+			"round6": 42,
+			"bonus": 45
+		},
+		{
+			"episode": 688,
+			"round1": 5,
+			"round2": 15,
+			"round3": 22,
+			"round4": 23,
+			"round5": 34,
+			"round6": 35,
+			"bonus": 2
+		},
+		{
+			"episode": 689,
+			"round1": 7,
+			"round2": 17,
+			"round3": 19,
+			"round4": 30,
+			"round5": 36,
+			"round6": 38,
+			"bonus": 34
+		},
+		{
+			"episode": 690,
+			"round1": 24,
+			"round2": 25,
+			"round3": 33,
+			"round4": 34,
+			"round5": 38,
+			"round6": 39,
+			"bonus": 43
+		},
+		{
+			"episode": 691,
+			"round1": 15,
+			"round2": 27,
+			"round3": 33,
+			"round4": 35,
+			"round5": 43,
+			"round6": 45,
+			"bonus": 16
+		},
+		{
+			"episode": 692,
+			"round1": 3,
+			"round2": 11,
+			"round3": 14,
+			"round4": 15,
+			"round5": 32,
+			"round6": 36,
+			"bonus": 44
+		},
+		{
+			"episode": 693,
+			"round1": 1,
+			"round2": 6,
+			"round3": 11,
+			"round4": 28,
+			"round5": 34,
+			"round6": 42,
+			"bonus": 30
+		},
+		{
+			"episode": 694,
+			"round1": 7,
+			"round2": 15,
+			"round3": 20,
+			"round4": 25,
+			"round5": 33,
+			"round6": 43,
+			"bonus": 12
+		},
+		{
+			"episode": 695,
+			"round1": 4,
+			"round2": 18,
+			"round3": 26,
+			"round4": 33,
+			"round5": 34,
+			"round6": 38,
+			"bonus": 14
+		},
+		{
+			"episode": 696,
+			"round1": 1,
+			"round2": 7,
+			"round3": 16,
+			"round4": 18,
+			"round5": 34,
+			"round6": 38,
+			"bonus": 21
+		},
+		{
+			"episode": 697,
+			"round1": 2,
+			"round2": 5,
+			"round3": 8,
+			"round4": 11,
+			"round5": 33,
+			"round6": 39,
+			"bonus": 31
+		},
+		{
+			"episode": 698,
+			"round1": 3,
+			"round2": 11,
+			"round3": 13,
+			"round4": 21,
+			"round5": 33,
+			"round6": 37,
+			"bonus": 18
+		},
+		{
+			"episode": 699,
+			"round1": 4,
+			"round2": 5,
+			"round3": 8,
+			"round4": 16,
+			"round5": 21,
+			"round6": 29,
+			"bonus": 3
+		},
+		{
+			"episode": 700,
+			"round1": 11,
+			"round2": 23,
+			"round3": 28,
+			"round4": 29,
+			"round5": 30,
+			"round6": 44,
+			"bonus": 13
+		},
+		{
+			"episode": 701,
+			"round1": 3,
+			"round2": 10,
+			"round3": 14,
+			"round4": 16,
+			"round5": 36,
+			"round6": 38,
+			"bonus": 35
+		},
+		{
+			"episode": 702,
+			"round1": 3,
+			"round2": 13,
+			"round3": 16,
+			"round4": 24,
+			"round5": 26,
+			"round6": 29,
+			"bonus": 9
+		},
+		{
+			"episode": 703,
+			"round1": 10,
+			"round2": 28,
+			"round3": 31,
+			"round4": 33,
+			"round5": 41,
+			"round6": 44,
+			"bonus": 21
+		},
+		{
+			"episode": 704,
+			"round1": 1,
+			"round2": 4,
+			"round3": 8,
+			"round4": 23,
+			"round5": 33,
+			"round6": 42,
+			"bonus": 45
+		},
+		{
+			"episode": 705,
+			"round1": 1,
+			"round2": 6,
+			"round3": 17,
+			"round4": 22,
+			"round5": 28,
+			"round6": 45,
+			"bonus": 23
+		},
+		{
+			"episode": 706,
+			"round1": 3,
+			"round2": 4,
+			"round3": 6,
+			"round4": 10,
+			"round5": 28,
+			"round6": 30,
+			"bonus": 37
+		},
+		{
+			"episode": 707,
+			"round1": 2,
+			"round2": 12,
+			"round3": 19,
+			"round4": 24,
+			"round5": 39,
+			"round6": 44,
+			"bonus": 35
+		},
+		{
+			"episode": 708,
+			"round1": 2,
+			"round2": 10,
+			"round3": 16,
+			"round4": 19,
+			"round5": 34,
+			"round6": 45,
+			"bonus": 1
+		},
+		{
+			"episode": 709,
+			"round1": 10,
+			"round2": 18,
+			"round3": 30,
+			"round4": 36,
+			"round5": 39,
+			"round6": 44,
+			"bonus": 32
+		},
+		{
+			"episode": 710,
+			"round1": 3,
+			"round2": 4,
+			"round3": 9,
+			"round4": 24,
+			"round5": 25,
+			"round6": 33,
+			"bonus": 10
+		},
+		{
+			"episode": 711,
+			"round1": 11,
+			"round2": 15,
+			"round3": 24,
+			"round4": 35,
+			"round5": 37,
+			"round6": 45,
+			"bonus": 42
+		},
+		{
+			"episode": 712,
+			"round1": 17,
+			"round2": 20,
+			"round3": 30,
+			"round4": 31,
+			"round5": 33,
+			"round6": 45,
+			"bonus": 19
+		},
+		{
+			"episode": 713,
+			"round1": 2,
+			"round2": 5,
+			"round3": 15,
+			"round4": 18,
+			"round5": 19,
+			"round6": 23,
+			"bonus": 44
+		},
+		{
+			"episode": 714,
+			"round1": 1,
+			"round2": 7,
+			"round3": 22,
+			"round4": 33,
+			"round5": 37,
+			"round6": 40,
+			"bonus": 20
+		},
+		{
+			"episode": 715,
+			"round1": 2,
+			"round2": 7,
+			"round3": 27,
+			"round4": 33,
+			"round5": 41,
+			"round6": 44,
+			"bonus": 10
+		},
+		{
+			"episode": 716,
+			"round1": 2,
+			"round2": 6,
+			"round3": 13,
+			"round4": 16,
+			"round5": 29,
+			"round6": 30,
+			"bonus": 21
+		},
+		{
+			"episode": 717,
+			"round1": 2,
+			"round2": 11,
+			"round3": 19,
+			"round4": 25,
+			"round5": 28,
+			"round6": 32,
+			"bonus": 44
+		},
+		{
+			"episode": 718,
+			"round1": 4,
+			"round2": 11,
+			"round3": 20,
+			"round4": 23,
+			"round5": 32,
+			"round6": 39,
+			"bonus": 40
+		},
+		{
+			"episode": 719,
+			"round1": 4,
+			"round2": 8,
+			"round3": 13,
+			"round4": 19,
+			"round5": 20,
+			"round6": 43,
+			"bonus": 26
+		},
+		{
+			"episode": 720,
+			"round1": 1,
+			"round2": 12,
+			"round3": 29,
+			"round4": 34,
+			"round5": 36,
+			"round6": 37,
+			"bonus": 41
+		},
+		{
+			"episode": 721,
+			"round1": 1,
+			"round2": 28,
+			"round3": 35,
+			"round4": 41,
+			"round5": 43,
+			"round6": 44,
+			"bonus": 31
+		},
+		{
+			"episode": 722,
+			"round1": 12,
+			"round2": 14,
+			"round3": 21,
+			"round4": 30,
+			"round5": 39,
+			"round6": 43,
+			"bonus": 45
+		},
+		{
+			"episode": 723,
+			"round1": 20,
+			"round2": 30,
+			"round3": 33,
+			"round4": 35,
+			"round5": 36,
+			"round6": 44,
+			"bonus": 22
+		},
+		{
+			"episode": 724,
+			"round1": 2,
+			"round2": 8,
+			"round3": 33,
+			"round4": 35,
+			"round5": 37,
+			"round6": 41,
+			"bonus": 14
+		},
+		{
+			"episode": 725,
+			"round1": 6,
+			"round2": 7,
+			"round3": 19,
+			"round4": 21,
+			"round5": 41,
+			"round6": 43,
+			"bonus": 38
+		},
+		{
+			"episode": 726,
+			"round1": 1,
+			"round2": 11,
+			"round3": 21,
+			"round4": 23,
+			"round5": 34,
+			"round6": 44,
+			"bonus": 24
+		},
+		{
+			"episode": 727,
+			"round1": 7,
+			"round2": 8,
+			"round3": 10,
+			"round4": 19,
+			"round5": 21,
+			"round6": 31,
+			"bonus": 20
+		},
+		{
+			"episode": 728,
+			"round1": 3,
+			"round2": 6,
+			"round3": 10,
+			"round4": 30,
+			"round5": 34,
+			"round6": 37,
+			"bonus": 36
+		},
+		{
+			"episode": 729,
+			"round1": 11,
+			"round2": 17,
+			"round3": 21,
+			"round4": 26,
+			"round5": 36,
+			"round6": 45,
+			"bonus": 16
+		},
+		{
+			"episode": 730,
+			"round1": 4,
+			"round2": 10,
+			"round3": 14,
+			"round4": 15,
+			"round5": 18,
+			"round6": 22,
+			"bonus": 39
+		},
+		{
+			"episode": 731,
+			"round1": 2,
+			"round2": 7,
+			"round3": 13,
+			"round4": 25,
+			"round5": 42,
+			"round6": 45,
+			"bonus": 39
+		},
+		{
+			"episode": 732,
+			"round1": 2,
+			"round2": 4,
+			"round3": 5,
+			"round4": 17,
+			"round5": 27,
+			"round6": 32,
+			"bonus": 43
+		},
+		{
+			"episode": 733,
+			"round1": 11,
+			"round2": 24,
+			"round3": 32,
+			"round4": 33,
+			"round5": 35,
+			"round6": 40,
+			"bonus": 13
+		},
+		{
+			"episode": 734,
+			"round1": 6,
+			"round2": 16,
+			"round3": 37,
+			"round4": 38,
+			"round5": 41,
+			"round6": 45,
+			"bonus": 18
+		},
+		{
+			"episode": 735,
+			"round1": 5,
+			"round2": 10,
+			"round3": 13,
+			"round4": 27,
+			"round5": 37,
+			"round6": 41,
+			"bonus": 4
+		},
+		{
+			"episode": 736,
+			"round1": 2,
+			"round2": 11,
+			"round3": 17,
+			"round4": 18,
+			"round5": 21,
+			"round6": 27,
+			"bonus": 6
+		},
+		{
+			"episode": 737,
+			"round1": 13,
+			"round2": 15,
+			"round3": 18,
+			"round4": 24,
+			"round5": 27,
+			"round6": 41,
+			"bonus": 11
+		},
+		{
+			"episode": 738,
+			"round1": 23,
+			"round2": 27,
+			"round3": 28,
+			"round4": 38,
+			"round5": 42,
+			"round6": 43,
+			"bonus": 36
+		},
+		{
+			"episode": 739,
+			"round1": 7,
+			"round2": 22,
+			"round3": 29,
+			"round4": 33,
+			"round5": 34,
+			"round6": 35,
+			"bonus": 30
+		},
+		{
+			"episode": 740,
+			"round1": 4,
+			"round2": 8,
+			"round3": 9,
+			"round4": 16,
+			"round5": 17,
+			"round6": 19,
+			"bonus": 31
+		},
+		{
+			"episode": 741,
+			"round1": 5,
+			"round2": 21,
+			"round3": 27,
+			"round4": 34,
+			"round5": 44,
+			"round6": 45,
+			"bonus": 16
+		},
+		{
+			"episode": 742,
+			"round1": 8,
+			"round2": 10,
+			"round3": 13,
+			"round4": 36,
+			"round5": 37,
+			"round6": 40,
+			"bonus": 6
+		},
+		{
+			"episode": 743,
+			"round1": 15,
+			"round2": 19,
+			"round3": 21,
+			"round4": 34,
+			"round5": 41,
+			"round6": 44,
+			"bonus": 10
+		},
+		{
+			"episode": 744,
+			"round1": 10,
+			"round2": 15,
+			"round3": 18,
+			"round4": 21,
+			"round5": 34,
+			"round6": 41,
+			"bonus": 43
+		},
+		{
+			"episode": 745,
+			"round1": 1,
+			"round2": 2,
+			"round3": 3,
+			"round4": 9,
+			"round5": 12,
+			"round6": 23,
+			"bonus": 10
+		},
+		{
+			"episode": 746,
+			"round1": 3,
+			"round2": 12,
+			"round3": 33,
+			"round4": 36,
+			"round5": 42,
+			"round6": 45,
+			"bonus": 25
+		},
+		{
+			"episode": 747,
+			"round1": 7,
+			"round2": 9,
+			"round3": 12,
+			"round4": 14,
+			"round5": 23,
+			"round6": 28,
+			"bonus": 17
+		},
+		{
+			"episode": 748,
+			"round1": 3,
+			"round2": 10,
+			"round3": 13,
+			"round4": 22,
+			"round5": 31,
+			"round6": 32,
+			"bonus": 29
+		},
+		{
+			"episode": 749,
+			"round1": 12,
+			"round2": 14,
+			"round3": 24,
+			"round4": 26,
+			"round5": 34,
+			"round6": 45,
+			"bonus": 41
+		},
+		{
+			"episode": 750,
+			"round1": 1,
+			"round2": 2,
+			"round3": 15,
+			"round4": 19,
+			"round5": 24,
+			"round6": 36,
+			"bonus": 12
+		},
+		{
+			"episode": 751,
+			"round1": 3,
+			"round2": 4,
+			"round3": 16,
+			"round4": 20,
+			"round5": 28,
+			"round6": 44,
+			"bonus": 17
+		},
+		{
+			"episode": 752,
+			"round1": 4,
+			"round2": 16,
+			"round3": 20,
+			"round4": 33,
+			"round5": 40,
+			"round6": 43,
+			"bonus": 7
+		},
+		{
+			"episode": 753,
+			"round1": 2,
+			"round2": 17,
+			"round3": 19,
+			"round4": 24,
+			"round5": 37,
+			"round6": 41,
+			"bonus": 3
+		},
+		{
+			"episode": 754,
+			"round1": 2,
+			"round2": 8,
+			"round3": 17,
+			"round4": 24,
+			"round5": 29,
+			"round6": 31,
+			"bonus": 32
+		},
+		{
+			"episode": 755,
+			"round1": 13,
+			"round2": 14,
+			"round3": 26,
+			"round4": 28,
+			"round5": 30,
+			"round6": 36,
+			"bonus": 37
+		},
+		{
+			"episode": 756,
+			"round1": 10,
+			"round2": 14,
+			"round3": 16,
+			"round4": 18,
+			"round5": 27,
+			"round6": 28,
+			"bonus": 4
+		},
+		{
+			"episode": 757,
+			"round1": 6,
+			"round2": 7,
+			"round3": 11,
+			"round4": 17,
+			"round5": 33,
+			"round6": 44,
+			"bonus": 1
+		},
+		{
+			"episode": 758,
+			"round1": 5,
+			"round2": 9,
+			"round3": 12,
+			"round4": 30,
+			"round5": 39,
+			"round6": 43,
+			"bonus": 24
+		},
+		{
+			"episode": 759,
+			"round1": 9,
+			"round2": 33,
+			"round3": 36,
+			"round4": 40,
+			"round5": 42,
+			"round6": 43,
+			"bonus": 32
+		},
+		{
+			"episode": 760,
+			"round1": 10,
+			"round2": 22,
+			"round3": 27,
+			"round4": 31,
+			"round5": 42,
+			"round6": 43,
+			"bonus": 12
+		},
+		{
+			"episode": 761,
+			"round1": 4,
+			"round2": 7,
+			"round3": 11,
+			"round4": 24,
+			"round5": 42,
+			"round6": 45,
+			"bonus": 30
+		},
+		{
+			"episode": 762,
+			"round1": 1,
+			"round2": 3,
+			"round3": 12,
+			"round4": 21,
+			"round5": 26,
+			"round6": 41,
+			"bonus": 16
+		},
+		{
+			"episode": 763,
+			"round1": 3,
+			"round2": 8,
+			"round3": 16,
+			"round4": 32,
+			"round5": 34,
+			"round6": 43,
+			"bonus": 10
+		},
+		{
+			"episode": 764,
+			"round1": 7,
+			"round2": 22,
+			"round3": 24,
+			"round4": 31,
+			"round5": 34,
+			"round6": 36,
+			"bonus": 15
+		},
+		{
+			"episode": 765,
+			"round1": 1,
+			"round2": 3,
+			"round3": 8,
+			"round4": 12,
+			"round5": 42,
+			"round6": 43,
+			"bonus": 33
+		},
+		{
+			"episode": 766,
+			"round1": 9,
+			"round2": 30,
+			"round3": 34,
+			"round4": 35,
+			"round5": 39,
+			"round6": 41,
+			"bonus": 21
+		},
+		{
+			"episode": 767,
+			"round1": 5,
+			"round2": 15,
+			"round3": 20,
+			"round4": 31,
+			"round5": 34,
+			"round6": 42,
+			"bonus": 22
+		},
+		{
+			"episode": 768,
+			"round1": 7,
+			"round2": 27,
+			"round3": 29,
+			"round4": 30,
+			"round5": 38,
+			"round6": 44,
+			"bonus": 4
+		},
+		{
+			"episode": 769,
+			"round1": 5,
+			"round2": 7,
+			"round3": 11,
+			"round4": 16,
+			"round5": 41,
+			"round6": 45,
+			"bonus": 4
+		},
+		{
+			"episode": 770,
+			"round1": 1,
+			"round2": 9,
+			"round3": 12,
+			"round4": 23,
+			"round5": 39,
+			"round6": 43,
+			"bonus": 34
+		},
+		{
+			"episode": 771,
+			"round1": 6,
+			"round2": 10,
+			"round3": 17,
+			"round4": 18,
+			"round5": 21,
+			"round6": 29,
+			"bonus": 30
+		},
+		{
+			"episode": 772,
+			"round1": 5,
+			"round2": 6,
+			"round3": 11,
+			"round4": 14,
+			"round5": 21,
+			"round6": 41,
+			"bonus": 32
+		},
+		{
+			"episode": 773,
+			"round1": 8,
+			"round2": 12,
+			"round3": 19,
+			"round4": 21,
+			"round5": 31,
+			"round6": 35,
+			"bonus": 44
+		},
+		{
+			"episode": 774,
+			"round1": 12,
+			"round2": 15,
+			"round3": 18,
+			"round4": 28,
+			"round5": 34,
+			"round6": 42,
+			"bonus": 9
+		},
+		{
+			"episode": 775,
+			"round1": 11,
+			"round2": 12,
+			"round3": 29,
+			"round4": 33,
+			"round5": 38,
+			"round6": 42,
+			"bonus": 17
+		},
+		{
+			"episode": 776,
+			"round1": 8,
+			"round2": 9,
+			"round3": 18,
+			"round4": 21,
+			"round5": 28,
+			"round6": 40,
+			"bonus": 20
+		},
+		{
+			"episode": 777,
+			"round1": 6,
+			"round2": 12,
+			"round3": 17,
+			"round4": 21,
+			"round5": 34,
+			"round6": 37,
+			"bonus": 18
+		},
+		{
+			"episode": 778,
+			"round1": 6,
+			"round2": 21,
+			"round3": 35,
+			"round4": 36,
+			"round5": 37,
+			"round6": 41,
+			"bonus": 11
+		},
+		{
+			"episode": 779,
+			"round1": 6,
+			"round2": 12,
+			"round3": 19,
+			"round4": 24,
+			"round5": 34,
+			"round6": 41,
+			"bonus": 4
+		},
+		{
+			"episode": 780,
+			"round1": 15,
+			"round2": 17,
+			"round3": 19,
+			"round4": 21,
+			"round5": 27,
+			"round6": 45,
+			"bonus": 16
+		},
+		{
+			"episode": 781,
+			"round1": 11,
+			"round2": 16,
+			"round3": 18,
+			"round4": 19,
+			"round5": 24,
+			"round6": 39,
+			"bonus": 43
+		},
+		{
+			"episode": 782,
+			"round1": 6,
+			"round2": 18,
+			"round3": 31,
+			"round4": 34,
+			"round5": 38,
+			"round6": 45,
+			"bonus": 20
+		},
+		{
+			"episode": 783,
+			"round1": 14,
+			"round2": 15,
+			"round3": 16,
+			"round4": 17,
+			"round5": 38,
+			"round6": 45,
+			"bonus": 36
+		},
+		{
+			"episode": 784,
+			"round1": 3,
+			"round2": 10,
+			"round3": 23,
+			"round4": 24,
+			"round5": 31,
+			"round6": 39,
+			"bonus": 22
+		},
+		{
+			"episode": 785,
+			"round1": 4,
+			"round2": 6,
+			"round3": 15,
+			"round4": 25,
+			"round5": 26,
+			"round6": 33,
+			"bonus": 40
+		},
+		{
+			"episode": 786,
+			"round1": 12,
+			"round2": 15,
+			"round3": 16,
+			"round4": 20,
+			"round5": 24,
+			"round6": 30,
+			"bonus": 38
+		},
+		{
+			"episode": 787,
+			"round1": 5,
+			"round2": 6,
+			"round3": 13,
+			"round4": 16,
+			"round5": 27,
+			"round6": 28,
+			"bonus": 9
+		},
+		{
+			"episode": 788,
+			"round1": 2,
+			"round2": 10,
+			"round3": 11,
+			"round4": 19,
+			"round5": 35,
+			"round6": 39,
+			"bonus": 29
+		},
+		{
+			"episode": 789,
+			"round1": 2,
+			"round2": 6,
+			"round3": 7,
+			"round4": 12,
+			"round5": 19,
+			"round6": 45,
+			"bonus": 38
+		},
+		{
+			"episode": 790,
+			"round1": 3,
+			"round2": 8,
+			"round3": 19,
+			"round4": 27,
+			"round5": 30,
+			"round6": 41,
+			"bonus": 12
+		},
+		{
+			"episode": 791,
+			"round1": 2,
+			"round2": 10,
+			"round3": 12,
+			"round4": 31,
+			"round5": 33,
+			"round6": 42,
+			"bonus": 32
+		},
+		{
+			"episode": 792,
+			"round1": 2,
+			"round2": 7,
+			"round3": 19,
+			"round4": 25,
+			"round5": 29,
+			"round6": 36,
+			"bonus": 16
+		},
+		{
+			"episode": 793,
+			"round1": 10,
+			"round2": 15,
+			"round3": 21,
+			"round4": 35,
+			"round5": 38,
+			"round6": 43,
+			"bonus": 31
+		},
+		{
+			"episode": 794,
+			"round1": 6,
+			"round2": 7,
+			"round3": 18,
+			"round4": 19,
+			"round5": 30,
+			"round6": 38,
+			"bonus": 13
+		},
+		{
+			"episode": 795,
+			"round1": 3,
+			"round2": 10,
+			"round3": 13,
+			"round4": 26,
+			"round5": 34,
+			"round6": 38,
+			"bonus": 36
+		},
+		{
+			"episode": 796,
+			"round1": 1,
+			"round2": 21,
+			"round3": 26,
+			"round4": 36,
+			"round5": 40,
+			"round6": 41,
+			"bonus": 5
+		},
+		{
+			"episode": 797,
+			"round1": 5,
+			"round2": 22,
+			"round3": 31,
+			"round4": 32,
+			"round5": 39,
+			"round6": 45,
+			"bonus": 36
+		},
+		{
+			"episode": 798,
+			"round1": 2,
+			"round2": 10,
+			"round3": 14,
+			"round4": 22,
+			"round5": 32,
+			"round6": 36,
+			"bonus": 41
+		},
+		{
+			"episode": 799,
+			"round1": 12,
+			"round2": 17,
+			"round3": 23,
+			"round4": 34,
+			"round5": 42,
+			"round6": 45,
+			"bonus": 33
+		},
+		{
+			"episode": 800,
+			"round1": 1,
+			"round2": 4,
+			"round3": 10,
+			"round4": 12,
+			"round5": 28,
+			"round6": 45,
+			"bonus": 26
+		},
+		{
+			"episode": 801,
+			"round1": 17,
+			"round2": 25,
+			"round3": 28,
+			"round4": 37,
+			"round5": 43,
+			"round6": 44,
+			"bonus": 2
+		},
+		{
+			"episode": 802,
+			"round1": 10,
+			"round2": 11,
+			"round3": 12,
+			"round4": 18,
+			"round5": 24,
+			"round6": 42,
+			"bonus": 27
+		},
+		{
+			"episode": 803,
+			"round1": 5,
+			"round2": 9,
+			"round3": 14,
+			"round4": 26,
+			"round5": 30,
+			"round6": 43,
+			"bonus": 2
+		},
+		{
+			"episode": 804,
+			"round1": 1,
+			"round2": 10,
+			"round3": 13,
+			"round4": 26,
+			"round5": 32,
+			"round6": 36,
+			"bonus": 9
+		},
+		{
+			"episode": 805,
+			"round1": 3,
+			"round2": 12,
+			"round3": 13,
+			"round4": 18,
+			"round5": 31,
+			"round6": 32,
+			"bonus": 42
+		},
+		{
+			"episode": 806,
+			"round1": 14,
+			"round2": 20,
+			"round3": 23,
+			"round4": 31,
+			"round5": 37,
+			"round6": 38,
+			"bonus": 27
+		},
+		{
+			"episode": 807,
+			"round1": 6,
+			"round2": 10,
+			"round3": 18,
+			"round4": 25,
+			"round5": 34,
+			"round6": 35,
+			"bonus": 33
+		},
+		{
+			"episode": 808,
+			"round1": 15,
+			"round2": 21,
+			"round3": 31,
+			"round4": 32,
+			"round5": 41,
+			"round6": 43,
+			"bonus": 24
+		},
+		{
+			"episode": 809,
+			"round1": 6,
+			"round2": 11,
+			"round3": 15,
+			"round4": 17,
+			"round5": 23,
+			"round6": 40,
+			"bonus": 39
+		},
+		{
+			"episode": 810,
+			"round1": 5,
+			"round2": 10,
+			"round3": 13,
+			"round4": 21,
+			"round5": 39,
+			"round6": 43,
+			"bonus": 11
+		},
+		{
+			"episode": 811,
+			"round1": 8,
+			"round2": 11,
+			"round3": 19,
+			"round4": 21,
+			"round5": 36,
+			"round6": 45,
+			"bonus": 25
+		},
+		{
+			"episode": 812,
+			"round1": 1,
+			"round2": 3,
+			"round3": 12,
+			"round4": 14,
+			"round5": 16,
+			"round6": 43,
+			"bonus": 10
+		},
+		{
+			"episode": 813,
+			"round1": 11,
+			"round2": 30,
+			"round3": 34,
+			"round4": 35,
+			"round5": 42,
+			"round6": 44,
+			"bonus": 27
+		},
+		{
+			"episode": 814,
+			"round1": 2,
+			"round2": 21,
+			"round3": 28,
+			"round4": 38,
+			"round5": 42,
+			"round6": 45,
+			"bonus": 30
+		},
+		{
+			"episode": 815,
+			"round1": 17,
+			"round2": 21,
+			"round3": 25,
+			"round4": 26,
+			"round5": 27,
+			"round6": 36,
+			"bonus": 4
+		},
+		{
+			"episode": 816,
+			"round1": 12,
+			"round2": 18,
+			"round3": 19,
+			"round4": 29,
+			"round5": 31,
+			"round6": 39,
+			"bonus": 7
+		},
+		{
+			"episode": 817,
+			"round1": 3,
+			"round2": 9,
+			"round3": 12,
+			"round4": 13,
+			"round5": 25,
+			"round6": 43,
+			"bonus": 34
+		},
+		{
+			"episode": 818,
+			"round1": 14,
+			"round2": 15,
+			"round3": 25,
+			"round4": 28,
+			"round5": 29,
+			"round6": 30,
+			"bonus": 3
+		},
+		{
+			"episode": 819,
+			"round1": 16,
+			"round2": 25,
+			"round3": 33,
+			"round4": 38,
+			"round5": 40,
+			"round6": 45,
+			"bonus": 15
+		},
+		{
+			"episode": 820,
+			"round1": 10,
+			"round2": 21,
+			"round3": 22,
+			"round4": 30,
+			"round5": 35,
+			"round6": 42,
+			"bonus": 6
+		},
+		{
+			"episode": 821,
+			"round1": 1,
+			"round2": 12,
+			"round3": 13,
+			"round4": 24,
+			"round5": 29,
+			"round6": 44,
+			"bonus": 16
+		},
+		{
+			"episode": 822,
+			"round1": 9,
+			"round2": 18,
+			"round3": 20,
+			"round4": 24,
+			"round5": 27,
+			"round6": 36,
+			"bonus": 12
+		},
+		{
+			"episode": 823,
+			"round1": 12,
+			"round2": 18,
+			"round3": 24,
+			"round4": 26,
+			"round5": 39,
+			"round6": 40,
+			"bonus": 15
+		},
+		{
+			"episode": 824,
+			"round1": 7,
+			"round2": 9,
+			"round3": 24,
+			"round4": 29,
+			"round5": 34,
+			"round6": 38,
+			"bonus": 26
+		},
+		{
+			"episode": 825,
+			"round1": 8,
+			"round2": 15,
+			"round3": 21,
+			"round4": 31,
+			"round5": 33,
+			"round6": 38,
+			"bonus": 42
+		},
+		{
+			"episode": 826,
+			"round1": 13,
+			"round2": 16,
+			"round3": 24,
+			"round4": 25,
+			"round5": 33,
+			"round6": 36,
+			"bonus": 42
+		},
+		{
+			"episode": 827,
+			"round1": 5,
+			"round2": 11,
+			"round3": 12,
+			"round4": 29,
+			"round5": 33,
+			"round6": 44,
+			"bonus": 14
+		},
+		{
+			"episode": 828,
+			"round1": 4,
+			"round2": 7,
+			"round3": 13,
+			"round4": 29,
+			"round5": 31,
+			"round6": 39,
+			"bonus": 18
+		},
+		{
+			"episode": 829,
+			"round1": 4,
+			"round2": 5,
+			"round3": 31,
+			"round4": 35,
+			"round5": 43,
+			"round6": 45,
+			"bonus": 29
+		},
+		{
+			"episode": 830,
+			"round1": 5,
+			"round2": 6,
+			"round3": 16,
+			"round4": 18,
+			"round5": 37,
+			"round6": 38,
+			"bonus": 17
+		},
+		{
+			"episode": 831,
+			"round1": 3,
+			"round2": 10,
+			"round3": 16,
+			"round4": 19,
+			"round5": 31,
+			"round6": 39,
+			"bonus": 9
+		},
+		{
+			"episode": 832,
+			"round1": 13,
+			"round2": 14,
+			"round3": 19,
+			"round4": 26,
+			"round5": 40,
+			"round6": 43,
+			"bonus": 30
+		},
+		{
+			"episode": 833,
+			"round1": 12,
+			"round2": 18,
+			"round3": 30,
+			"round4": 39,
+			"round5": 41,
+			"round6": 42,
+			"bonus": 19
+		},
+		{
+			"episode": 834,
+			"round1": 6,
+			"round2": 8,
+			"round3": 18,
+			"round4": 35,
+			"round5": 42,
+			"round6": 43,
+			"bonus": 3
+		},
+		{
+			"episode": 835,
+			"round1": 9,
+			"round2": 10,
+			"round3": 13,
+			"round4": 28,
+			"round5": 38,
+			"round6": 45,
+			"bonus": 35
+		},
+		{
+			"episode": 836,
+			"round1": 1,
+			"round2": 9,
+			"round3": 11,
+			"round4": 14,
+			"round5": 26,
+			"round6": 28,
+			"bonus": 19
+		},
+		{
+			"episode": 837,
+			"round1": 2,
+			"round2": 25,
+			"round3": 28,
+			"round4": 30,
+			"round5": 33,
+			"round6": 45,
+			"bonus": 6
+		},
+		{
+			"episode": 838,
+			"round1": 9,
+			"round2": 14,
+			"round3": 17,
+			"round4": 33,
+			"round5": 36,
+			"round6": 38,
+			"bonus": 20
+		},
+		{
+			"episode": 839,
+			"round1": 3,
+			"round2": 9,
+			"round3": 11,
+			"round4": 12,
+			"round5": 13,
+			"round6": 19,
+			"bonus": 35
+		},
+		{
+			"episode": 840,
+			"round1": 2,
+			"round2": 4,
+			"round3": 11,
+			"round4": 28,
+			"round5": 29,
+			"round6": 43,
+			"bonus": 27
+		},
+		{
+			"episode": 841,
+			"round1": 5,
+			"round2": 11,
+			"round3": 14,
+			"round4": 30,
+			"round5": 33,
+			"round6": 38,
+			"bonus": 24
+		},
+		{
+			"episode": 842,
+			"round1": 14,
+			"round2": 26,
+			"round3": 32,
+			"round4": 36,
+			"round5": 39,
+			"round6": 42,
+			"bonus": 38
+		},
+		{
+			"episode": 843,
+			"round1": 19,
+			"round2": 21,
+			"round3": 30,
+			"round4": 33,
+			"round5": 34,
+			"round6": 42,
+			"bonus": 4
+		},
+		{
+			"episode": 844,
+			"round1": 7,
+			"round2": 8,
+			"round3": 13,
+			"round4": 15,
+			"round5": 33,
+			"round6": 45,
+			"bonus": 18
+		},
+		{
+			"episode": 845,
+			"round1": 1,
+			"round2": 16,
+			"round3": 29,
+			"round4": 33,
+			"round5": 40,
+			"round6": 45,
+			"bonus": 6
+		},
+		{
+			"episode": 846,
+			"round1": 5,
+			"round2": 18,
+			"round3": 30,
+			"round4": 41,
+			"round5": 43,
+			"round6": 45,
+			"bonus": 13
+		},
+		{
+			"episode": 847,
+			"round1": 12,
+			"round2": 16,
+			"round3": 26,
+			"round4": 28,
+			"round5": 30,
+			"round6": 42,
+			"bonus": 22
+		},
+		{
+			"episode": 848,
+			"round1": 1,
+			"round2": 2,
+			"round3": 16,
+			"round4": 22,
+			"round5": 38,
+			"round6": 39,
+			"bonus": 34
+		},
+		{
+			"episode": 849,
+			"round1": 5,
+			"round2": 13,
+			"round3": 17,
+			"round4": 29,
+			"round5": 34,
+			"round6": 39,
+			"bonus": 3
+		},
+		{
+			"episode": 850,
+			"round1": 16,
+			"round2": 20,
+			"round3": 24,
+			"round4": 28,
+			"round5": 36,
+			"round6": 39,
+			"bonus": 5
+		},
+		{
+			"episode": 851,
+			"round1": 14,
+			"round2": 18,
+			"round3": 22,
+			"round4": 26,
+			"round5": 31,
+			"round6": 44,
+			"bonus": 40
+		},
+		{
+			"episode": 852,
+			"round1": 11,
+			"round2": 17,
+			"round3": 28,
+			"round4": 30,
+			"round5": 33,
+			"round6": 35,
+			"bonus": 9
+		},
+		{
+			"episode": 853,
+			"round1": 2,
+			"round2": 8,
+			"round3": 23,
+			"round4": 26,
+			"round5": 27,
+			"round6": 44,
+			"bonus": 13
+		},
+		{
+			"episode": 854,
+			"round1": 20,
+			"round2": 25,
+			"round3": 31,
+			"round4": 32,
+			"round5": 36,
+			"round6": 43,
+			"bonus": 3
+		},
+		{
+			"episode": 855,
+			"round1": 8,
+			"round2": 15,
+			"round3": 17,
+			"round4": 19,
+			"round5": 43,
+			"round6": 44,
+			"bonus": 7
+		},
+		{
+			"episode": 856,
+			"round1": 10,
+			"round2": 24,
+			"round3": 40,
+			"round4": 41,
+			"round5": 43,
+			"round6": 44,
+			"bonus": 17
+		},
+		{
+			"episode": 857,
+			"round1": 6,
+			"round2": 10,
+			"round3": 16,
+			"round4": 28,
+			"round5": 34,
+			"round6": 38,
+			"bonus": 43
+		},
+		{
+			"episode": 858,
+			"round1": 9,
+			"round2": 13,
+			"round3": 32,
+			"round4": 38,
+			"round5": 39,
+			"round6": 43,
+			"bonus": 23
+		},
+		{
+			"episode": 859,
+			"round1": 8,
+			"round2": 22,
+			"round3": 35,
+			"round4": 38,
+			"round5": 39,
+			"round6": 41,
+			"bonus": 24
+		},
+		{
+			"episode": 860,
+			"round1": 4,
+			"round2": 8,
+			"round3": 18,
+			"round4": 25,
+			"round5": 27,
+			"round6": 32,
+			"bonus": 42
+		},
+		{
+			"episode": 861,
+			"round1": 11,
+			"round2": 17,
+			"round3": 19,
+			"round4": 21,
+			"round5": 22,
+			"round6": 25,
+			"bonus": 24
+		},
+		{
+			"episode": 862,
+			"round1": 10,
+			"round2": 34,
+			"round3": 38,
+			"round4": 40,
+			"round5": 42,
+			"round6": 43,
+			"bonus": 32
+		},
+		{
+			"episode": 863,
+			"round1": 16,
+			"round2": 21,
+			"round3": 28,
+			"round4": 35,
+			"round5": 39,
+			"round6": 43,
+			"bonus": 12
+		},
+		{
+			"episode": 864,
+			"round1": 3,
+			"round2": 7,
+			"round3": 10,
+			"round4": 13,
+			"round5": 25,
+			"round6": 36,
+			"bonus": 32
+		},
+		{
+			"episode": 865,
+			"round1": 3,
+			"round2": 15,
+			"round3": 22,
+			"round4": 32,
+			"round5": 33,
+			"round6": 45,
+			"bonus": 2
+		},
+		{
+			"episode": 866,
+			"round1": 9,
+			"round2": 15,
+			"round3": 29,
+			"round4": 34,
+			"round5": 37,
+			"round6": 39,
+			"bonus": 12
+		},
+		{
+			"episode": 867,
+			"round1": 14,
+			"round2": 17,
+			"round3": 19,
+			"round4": 22,
+			"round5": 24,
+			"round6": 40,
+			"bonus": 41
+		},
+		{
+			"episode": 868,
+			"round1": 12,
+			"round2": 17,
+			"round3": 28,
+			"round4": 41,
+			"round5": 43,
+			"round6": 44,
+			"bonus": 25
+		},
+		{
+			"episode": 869,
+			"round1": 2,
+			"round2": 6,
+			"round3": 20,
+			"round4": 27,
+			"round5": 37,
+			"round6": 39,
+			"bonus": 4
+		},
+		{
+			"episode": 870,
+			"round1": 21,
+			"round2": 25,
+			"round3": 30,
+			"round4": 32,
+			"round5": 40,
+			"round6": 42,
+			"bonus": 31
+		},
+		{
+			"episode": 871,
+			"round1": 2,
+			"round2": 6,
+			"round3": 12,
+			"round4": 26,
+			"round5": 30,
+			"round6": 34,
+			"bonus": 38
+		},
+		{
+			"episode": 872,
+			"round1": 2,
+			"round2": 4,
+			"round3": 30,
+			"round4": 32,
+			"round5": 33,
+			"round6": 43,
+			"bonus": 29
+		},
+		{
+			"episode": 873,
+			"round1": 3,
+			"round2": 5,
+			"round3": 12,
+			"round4": 13,
+			"round5": 33,
+			"round6": 39,
+			"bonus": 38
+		},
+		{
+			"episode": 874,
+			"round1": 1,
+			"round2": 15,
+			"round3": 19,
+			"round4": 23,
+			"round5": 28,
+			"round6": 42,
+			"bonus": 32
+		},
+		{
+			"episode": 875,
+			"round1": 19,
+			"round2": 22,
+			"round3": 30,
+			"round4": 34,
+			"round5": 39,
+			"round6": 44,
+			"bonus": 36
+		},
+		{
+			"episode": 876,
+			"round1": 5,
+			"round2": 16,
+			"round3": 21,
+			"round4": 26,
+			"round5": 34,
+			"round6": 42,
+			"bonus": 24
+		},
+		{
+			"episode": 877,
+			"round1": 5,
+			"round2": 17,
+			"round3": 18,
+			"round4": 22,
+			"round5": 23,
+			"round6": 43,
+			"bonus": 12
+		},
+		{
+			"episode": 878,
+			"round1": 2,
+			"round2": 6,
+			"round3": 11,
+			"round4": 16,
+			"round5": 25,
+			"round6": 31,
+			"bonus": 3
+		},
+		{
+			"episode": 879,
+			"round1": 1,
+			"round2": 4,
+			"round3": 10,
+			"round4": 14,
+			"round5": 15,
+			"round6": 35,
+			"bonus": 20
+		},
+		{
+			"episode": 880,
+			"round1": 7,
+			"round2": 17,
+			"round3": 19,
+			"round4": 23,
+			"round5": 24,
+			"round6": 45,
+			"bonus": 38
+		},
+		{
+			"episode": 881,
+			"round1": 4,
+			"round2": 18,
+			"round3": 20,
+			"round4": 26,
+			"round5": 27,
+			"round6": 32,
+			"bonus": 9
+		},
+		{
+			"episode": 882,
+			"round1": 18,
+			"round2": 34,
+			"round3": 39,
+			"round4": 43,
+			"round5": 44,
+			"round6": 45,
+			"bonus": 23
+		},
+		{
+			"episode": 883,
+			"round1": 9,
+			"round2": 18,
+			"round3": 32,
+			"round4": 33,
+			"round5": 37,
+			"round6": 44,
+			"bonus": 22
+		}
+	]
+}
