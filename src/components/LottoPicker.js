@@ -1,9 +1,9 @@
 import React from 'react';
 
-const LottoPicker = ({onGetArray}) => {
+const LottoPicker = () => {
     return (
         <div>
-            <button onClick={onGetArray}>확인</button>
+            <button>확인</button>
         </div>
     )
 }
