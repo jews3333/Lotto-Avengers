@@ -6,7 +6,7 @@ import LottoPicker from '../components/LottoPicker';
 import LottoList from '../components/LottoList';
 import LottoNumber from '../components/LottoNumber';
 
-class LottoPickerContainer extends Component {
+class LottoContainer extends Component {
     constructor(props){
         super(props);
 
@@ -37,6 +37,7 @@ class LottoPickerContainer extends Component {
     }
 
     getArray = () => {
+        
         try {
             const list = new Array();
 
@@ -46,15 +47,19 @@ class LottoPickerContainer extends Component {
                 list.push(this.state.lotto[i].round3);
                 list.push(this.state.lotto[i].round4);
                 list.push(this.state.lotto[i].round5);
+                list.push(this.state.lotto[i].bonus);
             }
 
             const result = new Array();
 
             for(let i in list){
                 if(!(list[i] in result)){
-                    result[list[i]] = [];
+                    result[list[i]] = {
+                        number : list[i],
+                        numbers :[]
+                    };
                 }
-                result[list[i]].push(list[i]);
+                result[list[i]].numbers.push(list[i]);
             }
 
             this.setState({
@@ -76,11 +81,11 @@ class LottoPickerContainer extends Component {
         return(
             <div id='App'>
                 <LottoPicker/>
-                <LottoNumber number={this.state.number}/>
+                <LottoNumber number={this.state.number} />
                 <LottoList list={this.state.lotto}/>
             </div>
         );
     }
 }
 
-export default LottoPickerContainer;
+export default LottoContainer;

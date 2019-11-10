@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
 import './App.scss';
-import LottoPickerContainer from './containers/LottoPickerContainer';
+import LottoContainer from './containers/LottoContainer';
 
 class App extends Component {
 
     render() {
         return (
-            <LottoPickerContainer/>
+            <LottoContainer/>
         );
     }
 }
