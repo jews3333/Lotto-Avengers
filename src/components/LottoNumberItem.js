@@ -7,9 +7,16 @@ const LottoNumberItem = ({number, length}) => {
             <Type number={number}>
                 <span>{number}</span>
             </Type>
-            <div>
-                {length}
-            </div>
+            <Info>
+                <dl>
+                    <dt>총 갯수</dt>
+                    <dd>{length}</dd>
+                </dl>
+                <dl>
+                    <dt>비율</dt>
+                    <dd>{length}</dd>
+                </dl>
+            </Info>
         </NumberItem>
     );
 }
@@ -29,6 +36,10 @@ const Type = styled.div`
     border-radius:50%;
     text-shadow:0 0 2px rgba(0,0,0,0.5);
     background-color: ${props => (props.number < 10 ? '#fbc400' : props.number < 20 ? '#69c8f2' : props.number < 30 ? '#ff7272' : props.number < 40 ? '#aaa' : '#b0d840')}
+`;
+
+const Info = styled.div`
+    border:1px solid #aaa;
 `;
 
 export default LottoNumberItem;

@@ -2,21 +2,23 @@ import React from 'react';
 import styled from 'styled-components';
 import LottoNumberItem from './LottoNumberItem';
 
-const LottoNumber = ({number}) => {
+import Store from '../store/Store';
+
+const LottoNumber = () => {
     return (
-        <div className="lottoNumber">
-            <NumberWrap>
-            {
-                number ? 
-                number.map((number, index) => {
-                    return (
-                        <LottoNumberItem key={index} number={number.number} length={number.numbers.length} />
-                    );
-                }) :
-                '...Loading'
-            }
-            </NumberWrap>
-        </div>
+        <Store.Consumer>
+        {store => store.number ?
+            <div className="lottoNumber">
+                <NumberWrap>
+                    {store.number.map((number, index) => {
+                        return (
+                            <LottoNumberItem key={index} number={number.number} length={number.numbers} />
+                        );
+                    })}
+                </NumberWrap>
+            </div>
+        : '...loading'}
+        </Store.Consumer>
     )
 }
 

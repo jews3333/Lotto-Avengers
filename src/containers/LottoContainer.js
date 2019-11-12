@@ -2,9 +2,9 @@ import React, { Component } from 'react';
 
 import { database } from '../firebase/init';
 
-import LottoPicker from '../components/LottoPicker';
-import LottoList from '../components/LottoList';
-import LottoNumber from '../components/LottoNumber';
+import Router from '../routes/Router';
+
+import Store from '../store/Store';
 
 class LottoContainer extends Component {
     constructor(props){
@@ -14,7 +14,8 @@ class LottoContainer extends Component {
             number: [0,0,0,0,0],
             bonus: 0,
             lotto: null,
-            number: null
+            number: null,
+            percent: null
             
         }
 
@@ -62,10 +63,29 @@ class LottoContainer extends Component {
                 result[list[i]].numbers.push(list[i]);
             }
 
+            for(let i=1; i <result.length; i++){
+                result[i].numbers = result[i].numbers.length
+            }
+
+            //numbers값으로 내림차순 정렬
+            result.sort((a, b) => {
+                return a.numbers < b.numbers ? 1 : a.numbers > b.numbers ? -1 : 0;
+            });
+
+            const percent = {
+                all: 0
+            };
+
+            for(let i=1; i<result.length; i++){
+                percent.all = percent.all += result[i].numbers
+            }
+
             this.setState({
                 ...this.state,
                 number: result
             });
+            
+            console.log(percent)
 
         } catch(error) {
             console.log(error)
@@ -80,9 +100,12 @@ class LottoContainer extends Component {
     render(){
         return(
             <div id='App'>
-                <LottoPicker/>
+                <Store.Provider value={this.state}>
+                    <Router />
+                </Store.Provider>
+                {/* <LottoPicker/>
                 <LottoNumber number={this.state.number} />
-                <LottoList list={this.state.lotto}/>
+                <LottoList list={this.state.lotto}/> */}
             </div>
         );
     }
