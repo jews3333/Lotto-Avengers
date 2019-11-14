@@ -12,10 +12,6 @@ const LottoNumberItem = ({number, length}) => {
                     <dt>총 갯수</dt>
                     <dd>{length}</dd>
                 </dl>
-                <dl>
-                    <dt>비율</dt>
-                    <dd>{length}</dd>
-                </dl>
             </Info>
         </NumberItem>
     );
@@ -23,6 +19,8 @@ const LottoNumberItem = ({number, length}) => {
 
 const NumberItem = styled.li`
     width: calc(100% / 5);
+    text-align: center;
+    margin-bottom:15px;
 `;
 
 const Type = styled.div`
@@ -39,7 +37,7 @@ const Type = styled.div`
 `;
 
 const Info = styled.div`
-    border:1px solid #aaa;
+
 `;
 
 export default LottoNumberItem;

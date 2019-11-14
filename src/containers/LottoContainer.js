@@ -11,12 +11,10 @@ class LottoContainer extends Component {
         super(props);
 
         this.state = {
-            number: [0,0,0,0,0],
-            bonus: 0,
+            number: [],
             lotto: null,
             number: null,
-            percent: null
-            
+            bonus: null
         }
 
         this.getLottoList = this.getLottoList.bind(this);
@@ -27,7 +25,7 @@ class LottoContainer extends Component {
         try {
             await database.ref('lotto').on('value', snapshot => {
                 this.setState({
-                    lotto: snapshot.val(),
+                    lotto: snapshot.val()
                 });
 
                 this.getArray();
@@ -48,7 +46,6 @@ class LottoContainer extends Component {
                 list.push(this.state.lotto[i].round3);
                 list.push(this.state.lotto[i].round4);
                 list.push(this.state.lotto[i].round5);
-                list.push(this.state.lotto[i].bonus);
             }
 
             const result = new Array();
@@ -63,8 +60,10 @@ class LottoContainer extends Component {
                 result[list[i]].numbers.push(list[i]);
             }
 
-            for(let i=1; i <result.length; i++){
-                result[i].numbers = result[i].numbers.length
+            for(let i=0; i <result.length; i++){
+                if (result[i]) {
+                    result[i].numbers = result[i].numbers.length
+                }
             }
 
             //numbers값으로 내림차순 정렬
@@ -72,20 +71,45 @@ class LottoContainer extends Component {
                 return a.numbers < b.numbers ? 1 : a.numbers > b.numbers ? -1 : 0;
             });
 
-            const percent = {
-                all: 0
-            };
-
-            for(let i=1; i<result.length; i++){
-                percent.all = percent.all += result[i].numbers
-            }
-
             this.setState({
                 ...this.state,
                 number: result
             });
-            
-            console.log(percent)
+
+            const bonus = new Array();
+
+            for(let i=0; i<this.state.lotto.length; i++){
+                bonus.push(this.state.lotto[i].bonus);
+            }
+
+            const bonusResult = new Array();
+
+            for(let i in bonus){
+                if(!(bonus[i] in bonusResult)){
+                    bonusResult[bonus[i]] = {
+                        number : bonus[i],
+                        numbers :[]
+                    };
+                }
+                bonusResult[bonus[i]].numbers.push(bonus[i]);
+            }
+
+            for(let i=0; i <bonusResult.length; i++){
+                if (bonusResult[i]) {
+                    bonusResult[i].numbers = bonusResult[i].numbers.length
+                }
+            }
+
+            bonusResult.sort((a, b) => {
+                return a.numbers < b.numbers ? 1 : a.numbers > b.numbers ? -1 : 0;
+            });
+
+            this.setState({
+                ...this.state,
+                bonus: bonusResult
+            });
+
+            console.log(bonusResult)
 
         } catch(error) {
             console.log(error)
@@ -99,7 +123,7 @@ class LottoContainer extends Component {
 
     render(){
         return(
-            <div id='App'>
+            <div id="container">
                 <Store.Provider value={this.state}>
                     <Router />
                 </Store.Provider>
