@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 
-const LottoListItme = ({ episode, round1, round2, round3, round4, round5, bonus }) => {
+const LottoListItme = ({ episode, round1, round2, round3, round4, round5, round6, bonus }) => {
     return (
         <ListWrap>
             <ListItem>{episode}회차</ListItem>
@@ -10,6 +10,7 @@ const LottoListItme = ({ episode, round1, round2, round3, round4, round5, bonus 
             <ListItem><Type number={round3}><span>{round3}</span></Type></ListItem>
             <ListItem><Type number={round4}><span>{round4}</span></Type></ListItem>
             <ListItem><Type number={round5}><span>{round5}</span></Type></ListItem>
+            <ListItem><Type number={round6}><span>{round6}</span></Type></ListItem>
             <ListItem><Type number={bonus}><span>{bonus}</span></Type></ListItem>
         </ListWrap>
     );

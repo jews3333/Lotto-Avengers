@@ -17,6 +17,12 @@ const Nav = styled.header`
     background:#666;
     color:#fff;
     padding:15px;
+
+    & > a {
+        color:#fff;
+        margin: 0 20px;
+    }
+    
 `;
 
 export default Header;

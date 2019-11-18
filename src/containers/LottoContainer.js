@@ -46,6 +46,7 @@ class LottoContainer extends Component {
                 list.push(this.state.lotto[i].round3);
                 list.push(this.state.lotto[i].round4);
                 list.push(this.state.lotto[i].round5);
+                list.push(this.state.lotto[i].round6);
             }
 
             const result = new Array();
